@@ -1,0 +1,690 @@
+number_participant,name,club,target_Name,nik,gender,phone,address
+166,Bagus Wiranata,"Sipas Sriwedari, Solo",K,32543378,Male,9876543210,"Sipas Sriwedari, Solo"
+167,Hafidz Rizkiadi,Jemparingan Lareangon  Klaten ,K,32543379,Male,5790321680,Jemparingan Lareangon  Klaten 
+168,Adi Budi Prasetyo,Perpatri Sidoarjo,K,32543380,Male,8123456789,Perpatri Sidoarjo
+169,Suradi,Tangger Jemparingan,K,32543381,Male,8123456790,Tangger Jemparingan
+170,Catur Edi Yuwono,"Wedhi Ayu, Banyumas",K,32543382,Male,1234567890,"Wedhi Ayu, Banyumas"
+171,Maryadi,Kawedanan Kaprajuritan 1 Karaton Yogyakarta,K,32543383,Male,9876543210,Kawedanan Kaprajuritan 1 Karaton Yogyakarta
+172,Yunus Motor,Gading Archery. Klaten,K,32543384,Male,5790321680,Gading Archery. Klaten
+173,Azmil,"Hanacara, Jogja",K,32543385,Male,8123456789,"Hanacara, Jogja"
+174,Rokhim,"Krido Purihutomo, Klaten",K,32543386,Male,8123456790,"Krido Purihutomo, Klaten"
+175,Aris Waluyo,Manunggal Jati Yogyakarta,K,32543387,Male,1234567890,Manunggal Jati Yogyakarta
+176,Yoniyandra,Area 89,K,32543388,Male,9876543210,Area 89
+177,Slamet,"Kridho Senopati,  Klaten",K,32543389,Male,5790321680,"Kridho Senopati,  Klaten"
+178,Rio,"Jatra, Jogja",K,32543390,Male,8123456789,"Jatra, Jogja"
+179,Mulyana,"Rospring, Sukoharjo",K,32543391,Male,8123456790,"Rospring, Sukoharjo"
+180,Dedy Kristanto,"Surogeni, Jogja",K,32543392,Male,1234567890,"Surogeni, Jogja"
+181,Suyadi,Jemparingan Lareangon  Klaten ,L,32543393,Male,9876543210,Jemparingan Lareangon  Klaten 
+182,Soepyani,"As-Sadaad, Sragen",L,32543394,Male,5790321680,"As-Sadaad, Sragen"
+183,Sri Widodo,Bodronoyo Jogja,L,32543395,Male,8123456789,Bodronoyo Jogja
+184,Abah Harry,Perpatri Sidoarjo,L,32543396,Male,7606289988,Perpatri Sidoarjo
+185,Aron A,Area 89,L,32543397,Male,7732105718,Area 89
+186,Nana Nafiudin,"Baduy jamparingan,  Banten",L,32543398,Male,7857921448,"Baduy jamparingan,  Banten"
+187,Kuswantoro,"Kridho Senopati,  Klaten",L,32543399,Male,7983737178,"Kridho Senopati,  Klaten"
+188,Arifin,Pajero Klaten,L,32543400,Male,8109552908,Pajero Klaten
+189,Sutrisno,"Mangesti, Sleman",L,32543401,Male,8235368638,"Mangesti, Sleman"
+190,Basuki,"Surya Bhirawa, Klaten",L,32543402,Male,8361184368,"Surya Bhirawa, Klaten"
+191,Mulyana,"Krido Purihutomo, Klaten",L,32543403,Male,8487000098,"Krido Purihutomo, Klaten"
+192,Darmawan,"Gajah Kemuning, Bantul",L,32543404,Male,8612815828,"Gajah Kemuning, Bantul"
+193,Dwi Purnomo,"Wedhi Ayu, Banyumas",L,32543405,Male,8738631558,"Wedhi Ayu, Banyumas"
+194,Muh Andi Setiawan,Kawedanan Kaprajuritan 1 Karaton Yogyakarta,L,32543406,Male,8864447288,Kawedanan Kaprajuritan 1 Karaton Yogyakarta
+195,Khalid Alwi,"Surogeni, Jogja",L,32543407,Male,8990263018,"Surogeni, Jogja"
+196,Ismanto,Pajero Klaten,M,32543408,Male,9116078748,Pajero Klaten
+197,Afid Riyadi,"Kridho Senopati,  Klaten",M,32543409,Male,9241894478,"Kridho Senopati,  Klaten"
+198,Ilham T,Area 89,M,32543410,Male,9367710208,Area 89
+199,Moh. Riswanto,Jemparingan Cirebon,M,32543411,Male,9493525938,Jemparingan Cirebon
+200,Sringatipan,"Krido Purihutomo, Klaten",M,32543412,Male,9619341668,"Krido Purihutomo, Klaten"
+201,Abah Joko,"Mangesti, Sleman",M,32543413,Male,9745157398,"Mangesti, Sleman"
+202,Bambang Yuwono,"Surya Bhirawa, Klaten",M,32543414,Male,9870973128,"Surya Bhirawa, Klaten"
+203,Andreas,"Krido Purihutomo, Klaten",M,32543415,Male,9996788858,"Krido Purihutomo, Klaten"
+204,Rendi Dimas S,Jemparingan Lareangon  Klaten ,M,32543416,Male,10122604588,Jemparingan Lareangon  Klaten 
+205,Yanu Anggara,Perpatri Sidoarjo,M,32543417,Male,10248420318,Perpatri Sidoarjo
+206,Hendrik,Tangger Jemparingan,M,32543418,Male,10374236048,Tangger Jemparingan
+207,PURNAWAN WIDODO,"Alap - Alap Slarong , Yogyakata",M,32543419,Male,10500051778,"Alap - Alap Slarong , Yogyakata"
+208,Dimaz Arifin Hamsyah,Kawedanan Kaprajuritan 1 Karaton Yogyakarta,M,32543420,Male,10625867508,Kawedanan Kaprajuritan 1 Karaton Yogyakarta
+209,Ghozali,Gading Archery. Klaten,M,32543421,Male,10751683238,Gading Archery. Klaten
+210,Rizki Noviardana,"Alap - Alap Slarong , Yogyakata",M,32543422,Male,10877498968,"Alap - Alap Slarong , Yogyakata"
+211,Sugeng,"Kridho Senopati,  Klaten",N,32543423,Male,11003314698,"Kridho Senopati,  Klaten"
+212,Muhammad Kennard Pasya,Jemparingan Cirebon,N,32543424,Male,11129130427,Jemparingan Cirebon
+213,Arya,"Surya Bhirawa, Klaten",N,32543425,Male,11254946157,"Surya Bhirawa, Klaten"
+214,Dwi P,Area 89,N,32543426,Male,11380761887,Area 89
+215,Yakub,Pajero Klaten,N,32543427,Male,11506577617,Pajero Klaten
+216,Imam Yuda Permana,"Mangesti, Sleman",N,32543428,Male,11632393347,"Mangesti, Sleman"
+217,M.Akbar,"Krido Purihutomo, Klaten",N,32543429,Male,11758209077,"Krido Purihutomo, Klaten"
+218,Muawan Abd Qoyum,"Sipas Sriwedari, Solo",N,32543430,Male,11884024807,"Sipas Sriwedari, Solo"
+219,Murdoko,Kawedanan Kaprajuritan 2 Karaton Yogyakarta,N,32543431,Male,12009840537,Kawedanan Kaprajuritan 2 Karaton Yogyakarta
+220,Slamet,"Rospring, Sukoharjo",N,32543432,Male,12135656267,"Rospring, Sukoharjo"
+221,Dhanang,"Giri Mandala ,  Wonogiri",N,32543433,Male,12261471997,"Giri Mandala ,  Wonogiri"
+222,Reksa  Darma P,"L P G, Surabaya",N,32543434,Male,12387287727,"L P G, Surabaya"
+223,AGUS PRIMAJATI,"Alap - Alap Slarong , Yogyakata",N,32543435,Male,12513103457,"Alap - Alap Slarong , Yogyakata"
+224,Okky Caesaryanto,Kawedanan Kaprajuritan 2 Karaton Yogyakarta,N,32543436,Male,12638919187,Kawedanan Kaprajuritan 2 Karaton Yogyakarta
+225,Nanang Rasmawan,Bca Surabaya,N,32543437,Male,12764734917,Bca Surabaya
+226,Agung Surjan,"Hanacara, Jogja",O,32543438,Male,12890550647,"Hanacara, Jogja"
+227,ARIF,"GENDEWO MAS, BANYUMAS",O,32543439,Male,13016366377,"GENDEWO MAS, BANYUMAS"
+228,Thoyib,Area 89,O,32543440,Male,13142182107,Area 89
+229,Yajid,"Rospring, Sukoharjo",O,32543441,Male,13267997837,"Rospring, Sukoharjo"
+230,Setyawan Joni Efendi,Kawedanan Kaprajuritan 2 Karaton Yogyakarta,O,32543442,Male,13393813567,Kawedanan Kaprajuritan 2 Karaton Yogyakarta
+231,Annas,"Surya Bhirawa, Klaten",O,32543443,Male,13519629297,"Surya Bhirawa, Klaten"
+232,Supriyanto,"Loh Jinawi, Jogja ",O,32543444,Male,13645445027,"Loh Jinawi, Jogja "
+233,Purwo Supriyanto,"Mangesti, Sleman",O,32543445,Male,13771260757,"Mangesti, Sleman"
+234,Muhammad Rasyiddin,Kawedanan Kaprajuritan 2 Karaton Yogyakarta,O,32543446,Male,13897076487,Kawedanan Kaprajuritan 2 Karaton Yogyakarta
+235,Suhartoyo,Jemparingan Cirebon,O,32543447,Male,14022892217,Jemparingan Cirebon
+236,Mukhammad Dafid,"L P G, Surabaya",O,32543448,Male,14148707947,"L P G, Surabaya"
+237,Joko purwono,"sastro anggoro, jogja",O,32543449,Male,14274523677,"sastro anggoro, jogja"
+238,Satrio Ariwibowo,"Alap - Alap Slarong , Yogyakata",O,32543450,Male,14400339407,"Alap - Alap Slarong , Yogyakata"
+239,Topik,"Jaluwasi,  Jogja",O,32543451,Male,14526155137,"Jaluwasi,  Jogja"
+240,Yuli,Pashupatastra Magetan,O,32543452,Male,14651970867,Pashupatastra Magetan
+241,Joko S,"Giri Mandala ,  Wonogiri",P,32543453,Male,14777786597,"Giri Mandala ,  Wonogiri"
+242,Abdullah Aqiel Abiyyi,"L P G, Surabaya",P,32543454,Male,14903602327,"L P G, Surabaya"
+243,Arief Nur Widiyanto,"Siliran, Yogyakarta",P,32543455,Male,15029418057,"Siliran, Yogyakarta"
+244,Muhammad Jamal,"Alap - Alap Slarong , Yogyakata",P,32543456,Male,15155233787,"Alap - Alap Slarong , Yogyakata"
+245,Didi Suhadi,Jemparingan Cirebon,P,32543457,Male,15281049517,Jemparingan Cirebon
+246,Friday,"Cungkuk, Jogja ",P,32543458,Male,15406865247,"Cungkuk, Jogja "
+247,Budi Nuralam,"Mangesti, Sleman",P,32543459,Male,15532680977,"Mangesti, Sleman"
+248,Supriyadi,Kawedanan Kaprajuritan 2 Karaton Yogyakarta,P,32543460,Male,15658496707,Kawedanan Kaprajuritan 2 Karaton Yogyakarta
+249,Aris Siswanto,"Rospring, Sukoharjo",P,32543461,Male,15784312437,"Rospring, Sukoharjo"
+250,Alvian Octaviano Wijayanto,Arah  Archery Unair Surabaya,P,32543462,Male,15910128167,Arah  Archery Unair Surabaya
+251,Wandiyo,Bwt,P,32543463,Male,16035943897,Bwt
+252,Rm.Rudityo W,"Winata Manggala , Jogja",P,32543464,Male,16161759627,"Winata Manggala , Jogja"
+253,Rbg. Kushariyono Arief Wibowo,"Laskar Panji Suryanegara, Malang",P,32543465,Male,16287575357,"Laskar Panji Suryanegara, Malang"
+254,Mujiyanto,Kridobusoro Klaten,P,32543466,Male,16413391087,Kridobusoro Klaten
+255,Riyadi,Jemparingan Lareangon  Klaten ,Q,32543467,Male,16539206817,Jemparingan Lareangon  Klaten 
+256,Andi Sukmana,Jemparingan Cirebon,Q,32543468,Male,16665022547,Jemparingan Cirebon
+257,Aries Yudo Prananto,"Siliran, Yogyakarta",Q,32543469,Male,16790838277,"Siliran, Yogyakarta"
+258,Siswadi,Pajero Klaten,Q,32543470,Male,16916654007,Pajero Klaten
+259,Muhammad Rizal Syahroni,Bca Surabaya,Q,32543471,Male,17042469737,Bca Surabaya
+260,Eksand,Bodronoyo Jogja,Q,32543472,Male,17168285467,Bodronoyo Jogja
+261,Hilal Musholi,"Pametri Projo, Gunungkidul",Q,32543473,Male,17294101197,"Pametri Projo, Gunungkidul"
+262,Aryo Prakoso,Royal Brongto Yogyakarta,Q,32543474,Male,17419916927,Royal Brongto Yogyakarta
+263,Alb. Listiyo Purwinto,Bwt,Q,32543475,Male,17545732657,Bwt
+264,Agus Sutopo,"Pjkm, Klaten",Q,32543476,Male,17671548387,"Pjkm, Klaten"
+265,Rb. Muhammad Akmal Maulana,Arah  Archery Unair Surabaya,Q,32543477,Male,17797364117,Arah  Archery Unair Surabaya
+266,Faisal Bahri,Kridobusoro Klaten,Q,32543478,Male,17923179847,Kridobusoro Klaten
+267,Faizal Helmi,"Melati Langit, Sleman",Q,32543479,Male,18048995577,"Melati Langit, Sleman"
+268,Mulyono,Elbadr  Sukoharjo,Q,32543480,Male,18174811307,Elbadr  Sukoharjo
+269,Joko Bro,Danurwendho. Jogjakarta,Q,32543481,Male,18300627037,Danurwendho. Jogjakarta
+270,Bergas Rezqika,Royal Brongto Yogyakarta,R,32543482,Male,18426442767,Royal Brongto Yogyakarta
+271,Muhammad Syafiq Zuhdi,Arah  Archery Unair Surabaya,R,32543483,Male,18552258497,Arah  Archery Unair Surabaya
+272,Agus Widodo,Bwt,R,32543484,Male,18678074227,Bwt
+273,Ade Nugraha,Jemparingan Cirebon,R,32543485,Male,18803889957,Jemparingan Cirebon
+274,Anton,Pajero Klaten,R,32543486,Male,18929705687,Pajero Klaten
+275,Martoto,"Pjkm, Klaten",R,32543487,Male,19055521417,"Pjkm, Klaten"
+276,Tama,Bodronoyo Jogja,R,32543488,Male,19181337147,Bodronoyo Jogja
+277,Sahadi,Kridobusoro Klaten,R,32543489,Male,19307152877,Kridobusoro Klaten
+278,Bambang Edy,"Winata Manggala , Jogja",R,32543490,Male,19432968607,"Winata Manggala , Jogja"
+279,Sapto Heru Yunanto,"Siliran, Yogyakarta",R,32543491,Male,19558784337,"Siliran, Yogyakarta"
+280,Lukman Eko Pambudi,"Laskar Panji Suryanegara, Malang",R,32543492,Male,19684600067,"Laskar Panji Suryanegara, Malang"
+281,Abdur,Elbadr  Sukoharjo,R,32543493,Male,19810415797,Elbadr  Sukoharjo
+282,Wawan,Danurwendho. Jogjakarta,R,32543494,Male,19936231527,Danurwendho. Jogjakarta
+283,Wiyono Bronoseto,Agung Sedayu Jogja,R,32543495,Male,20062047257,Agung Sedayu Jogja
+284,Pras,"Al Fatih Archery,  Klaten",R,32543496,Male,20187862987,"Al Fatih Archery,  Klaten"
+285,Habib,Elbadr  Sukoharjo,S,32543497,Male,20313678717,Elbadr  Sukoharjo
+286,Rosidi,Kridobusoro Klaten,S,32543498,Male,20439494447,Kridobusoro Klaten
+287,Titus Ari Kusnanto,"Siliran, Yogyakarta",S,32543499,Male,20565310177,"Siliran, Yogyakarta"
+288,Agung Priambodo,Bodronoyo Jogja,S,32543500,Male,20691125907,Bodronoyo Jogja
+289,Catur Apriyanto,"Pjkm, Klaten",S,32543501,Male,20816941637,"Pjkm, Klaten"
+290,Muhammad Abdul Khaliq Al Hakim,Bwt,S,32543502,Male,20942757367,Bwt
+291,Cas Mugi,Danurwendho. Jogjakarta,S,32543503,Male,21068573097,Danurwendho. Jogjakarta
+292,Sudiman,Agung Sedayu Jogja,S,32543504,Male,21194388827,Agung Sedayu Jogja
+293,Adzan,"Al Fatih Archery,  Klaten",S,32543505,Male,21320204557,"Al Fatih Archery,  Klaten"
+294,Banu Iswanto,"Melati Langit, Sleman",S,32543506,Male,21446020287,"Melati Langit, Sleman"
+295,Slamet Fajar,Kobra D Kalman Yogjakarta,S,32543507,Male,21571836017,Kobra D Kalman Yogjakarta
+296,Juni Waldiyono,"Kensinau, Kulon Progo",S,32543508,Male,21697651747,"Kensinau, Kulon Progo"
+297,Heri,"Pasty Istimewa ,  Yogyakarta",S,32543509,Male,21823467477,"Pasty Istimewa ,  Yogyakarta"
+298,Rahmat D,"Paser Suro, Surabaya",S,32543510,Male,21949283207,"Paser Suro, Surabaya"
+299,Hartono Putro,"Kridha Warastra, Bantul",S,32543511,Male,22075098937,"Kridha Warastra, Bantul"
+300,Daliman,Kobra D Kalman Yogjakarta,T,32543512,Male,22200914667,Kobra D Kalman Yogjakarta
+301,Arjun Kamanjaya,Agung Sedayu Jogja,T,32543513,Male,22326730397,Agung Sedayu Jogja
+302,Fathoni,Elbadr  Sukoharjo,T,32543514,Male,22452546127,Elbadr  Sukoharjo
+303,Wahyu Nugroho,"Siliran, Yogyakarta",T,32543515,Male,22578361857,"Siliran, Yogyakarta"
+304,Budi,Kridobusoro Klaten,T,32543516,Male,22704177587,Kridobusoro Klaten
+305,Sapto Priyono,"Pjkm, Klaten",T,32543517,Male,22829993317,"Pjkm, Klaten"
+306,Muhammad Abdul Aziz,Bwt,T,32543518,Male,22955809047,Bwt
+307,Agus Widodo,Danurwendho. Jogjakarta,T,32543519,Male,23081624776,Danurwendho. Jogjakarta
+308,Teguh Supriya,"Kensinau, Kulon Progo",T,32543520,Male,23207440506,"Kensinau, Kulon Progo"
+309,Heru,"Pasty Istimewa ,  Yogyakarta",T,32543521,Male,23333256236,"Pasty Istimewa ,  Yogyakarta"
+310,M. Syahroni,"Paser Suro, Surabaya",T,32543522,Male,23459071966,"Paser Suro, Surabaya"
+311,Danang Da,"Kridha Warastra, Bantul",T,32543523,Male,23584887696,"Kridha Warastra, Bantul"
+312,Kiswadi,"Ronggo Sedayu, Klaten",T,32543524,Male,23710703426,"Ronggo Sedayu, Klaten"
+313,Nuraziz,"Hantu Maut, Yogyakarta",T,32543525,Male,23836519156,"Hantu Maut, Yogyakarta"
+314,Ana Suryana,"Walet Basura Pajajaran, Jawa Barat",T,32543526,Male,23836519156,"Walet Basura Pajajaran, Jawa Barat"
+315,Widiatmoko,Agung Sedayu Jogja,U,32543527,Male,23836519156,Agung Sedayu Jogja
+316,Winarno,Kridobusoro Klaten,U,32543528,Male,23836519156,Kridobusoro Klaten
+317,"Drs Ary Widayanto, M,Pd",Bwt,U,32543529,Male,23836519156,Bwt
+318,Agus Nur Sudrajad,"Siliran, Yogyakarta",U,32543530,Male,23836519156,"Siliran, Yogyakarta"
+319,Hdc,"Al Fatih Archery,  Klaten",U,32543531,Male,23836519156,"Al Fatih Archery,  Klaten"
+320,Rodin,"Kensinau, Kulon Progo",U,32543532,Male,23836519156,"Kensinau, Kulon Progo"
+321,Asep,"Pasty Istimewa ,  Yogyakarta",U,32543533,Male,23836519156,"Pasty Istimewa ,  Yogyakarta"
+322,Ivan W,"Paser Suro, Surabaya",U,32543534,Male,23836519156,"Paser Suro, Surabaya"
+323,Suharno,"Ronggo Sedayu, Klaten",U,32543535,Male,23836519156,"Ronggo Sedayu, Klaten"
+324,Sumarno,"Kridha Warastra, Bantul",U,32543536,Male,23836519156,"Kridha Warastra, Bantul"
+325,Danang Rusmandoko,"Hantu Maut, Yogyakarta",U,32543537,Male,23836519156,"Hantu Maut, Yogyakarta"
+326,Sugito,"Jcc, Sleman",U,32543538,Male,23836519156,"Jcc, Sleman"
+327,Abhimanyu,"Jemparingan Tasikmalaya, Jawa Barat",U,32543539,Male,23836519156,"Jemparingan Tasikmalaya, Jawa Barat"
+328,Panut Widodo,"Paguyuban Wirotomo , Jogja",U,32543540,Male,23836519156,"Paguyuban Wirotomo , Jogja"
+329,Lasono,"Warastra ,  Sleman",U,32543541,Male,23836519157,"Warastra ,  Sleman"
+330,Husen,"Kensinau, Kulon Progo",V,32543542,Male,23836519158,"Kensinau, Kulon Progo"
+331,Giyanto,Agung Sedayu Jogja,V,32543543,Male,23836519159,Agung Sedayu Jogja
+332,Marjono,"Siliran, Yogyakarta",V,32543544,Male,23836519160,"Siliran, Yogyakarta"
+333,Tatang,Kridobusoro Klaten,V,32543545,Male,23836519161,Kridobusoro Klaten
+334,"Drs Surpiyanto, M.S.I",Bwt,V,32543546,Male,23836519162,Bwt
+335,Sukirno,"Kridha Warastra, Bantul",V,32543547,Male,23836519163,"Kridha Warastra, Bantul"
+336,Tono,"Pasty Istimewa ,  Yogyakarta",V,32543548,Male,23836519164,"Pasty Istimewa ,  Yogyakarta"
+337,Santoso Triwardono,"Ki Ageng Lembah Manah, Yogyakarta",V,32543549,Male,23836519165,"Ki Ageng Lembah Manah, Yogyakarta"
+338,Yan Arief,"Jcc, Sleman",V,32543550,Male,23836519166,"Jcc, Sleman"
+339,Bayu,"Paguyuban Wirotomo , Jogja",V,32543551,Male,23836519167,"Paguyuban Wirotomo , Jogja"
+340,Sumaryanto,"Warastra ,  Sleman",V,32543552,Male,23836519168,"Warastra ,  Sleman"
+341,Farel Arya Perkasa,Jemparingan Panggungharjo Bantul,V,32543553,Male,23836519169,Jemparingan Panggungharjo Bantul
+342,Anggit,"Gendewo Mas,  Banyumas",V,32543554,Male,23836519170,"Gendewo Mas,  Banyumas"
+343,Bima Aldy Setyawan,"Warastra Jati,  Gunungkidul",V,32543555,Male,23836519171,"Warastra Jati,  Gunungkidul"
+344,Ali W,"Paser Suro, Surabaya",V,32543556,Male,23836519172,"Paser Suro, Surabaya"
+345,Hatif P,"Paser Suro, Surabaya",W,32543557,Male,23836519173,"Paser Suro, Surabaya"
+346,Nur Wicaksana,"Kridha Warastra, Bantul",W,32543558,Male,23836519174,"Kridha Warastra, Bantul"
+347,Prasetya H Wardana,Bwt,W,32543559,Male,23836519175,Bwt
+348,Ristanto,Agung Sedayu Jogja,W,32543560,Male,23836519176,Agung Sedayu Jogja
+349,Joko Witono,Kridobusoro Klaten,W,32543561,Male,23836519177,Kridobusoro Klaten
+350,Sularto,"Siliran, Yogyakarta",W,32543562,Male,23836519178,"Siliran, Yogyakarta"
+351,Zukrofi,"Kensinau, Kulon Progo",W,32543563,Male,23836519179,"Kensinau, Kulon Progo"
+352,Guntur,"Pasty Istimewa ,  Yogyakarta",W,32543564,Male,23836519180,"Pasty Istimewa ,  Yogyakarta"
+353,Katono,"Hantu Maut, Yogyakarta",W,32543565,Male,23836519181,"Hantu Maut, Yogyakarta"
+354,Iman Supardan,"Walet Basura Pajajaran, Jawa Barat",W,32543566,Male,23836519182,"Walet Basura Pajajaran, Jawa Barat"
+355,Arisady,"Warastra ,  Sleman",W,32543567,Male,23836519183,"Warastra ,  Sleman"
+356,Yudi Wiratno,"Ki Ageng Lembah Manah, Yogyakarta",W,32543568,Male,23836519184,"Ki Ageng Lembah Manah, Yogyakarta"
+357,Fian,"Jcc, Sleman",W,32543569,Male,23836519185,"Jcc, Sleman"
+358,Riyan,"Paguyuban Wirotomo , Jogja",W,32543570,Male,23836519186,"Paguyuban Wirotomo , Jogja"
+359,Agus Prasetyo,"Ronggo Sedayu, Klaten",W,32543571,Male,23836519187,"Ronggo Sedayu, Klaten"
+360,Jhon Rudi S.Y.,"Ronggo Sedayu, Klaten",X,32543572,Male,23836519188,"Ronggo Sedayu, Klaten"
+361,Matheus Bimo Udoro,Bwt,X,32543573,Male,23836519189,Bwt
+362,Galih Septyan,Agung Sedayu Jogja,X,32543574,Male,23836519190,Agung Sedayu Jogja
+363,Muh Taukhid,"Siliran, Yogyakarta",X,32543575,Male,23836519191,"Siliran, Yogyakarta"
+364,Wawan,Kridobusoro Klaten,X,32543576,Male,23836519192,Kridobusoro Klaten
+365,Joko,"Kensinau, Kulon Progo",X,32543577,Male,23836519193,"Kensinau, Kulon Progo"
+366,Riski,"Pasty Istimewa ,  Yogyakarta",X,32543578,Male,23836519194,"Pasty Istimewa ,  Yogyakarta"
+367,Eko Ba'Abut,"Paser Suro, Surabaya",X,32543579,Male,23836519195,"Paser Suro, Surabaya"
+368,Triono,"Hantu Maut, Yogyakarta",X,32543580,Male,23836519196,"Hantu Maut, Yogyakarta"
+369,Maulana Yusup,"Walet Basura Pajajaran, Jawa Barat",X,32543581,Male,23836519197,"Walet Basura Pajajaran, Jawa Barat"
+370,Budi Yuliarso,"Ki Ageng Lembah Manah, Yogyakarta",X,32543582,Male,23836519198,"Ki Ageng Lembah Manah, Yogyakarta"
+371,P.Ngatino,"Paguyuban Wirotomo , Jogja",X,32543583,Male,23836519199,"Paguyuban Wirotomo , Jogja"
+372,Supriyanto,"Lembah Manah, Wonogiri",X,32543584,Male,23836519200,"Lembah Manah, Wonogiri"
+373,Surono,"Jcc, Sleman",X,32543585,Male,23836519201,"Jcc, Sleman"
+374,Puji Setiawan,Jemparingan Panggungharjo Bantul,X,32543586,Male,23836519202,Jemparingan Panggungharjo Bantul
+375,Yulianta,"Hantu Maut, Yogyakarta",Y,32543587,Male,23836519203,"Hantu Maut, Yogyakarta"
+376,Julius Rio Rolando S.,"Walet Basura Pajajaran, Jawa Barat",Y,32543588,Male,23836519204,"Walet Basura Pajajaran, Jawa Barat"
+377,Anas,Kridobusoro Klaten,Y,32543589,Male,23836519205,Kridobusoro Klaten
+378,Cipuk Dwi,Agung Sedayu Jogja,Y,32543590,Male,23836519206,Agung Sedayu Jogja
+379,Purteso,"Kensinau, Kulon Progo",Y,32543591,Male,23836519207,"Kensinau, Kulon Progo"
+380,Nanang,"Pasty Istimewa ,  Yogyakarta",Y,32543592,Male,23836519208,"Pasty Istimewa ,  Yogyakarta"
+381,Haryanto,"Ronggo Sedayu, Klaten",Y,32543593,Male,23836519209,"Ronggo Sedayu, Klaten"
+382,Decky Ardnel Wicaksono,Jemparingan Panggungharjo Bantul,Y,32543594,Male,23836519210,Jemparingan Panggungharjo Bantul
+383,Hastopo,"Gendewo Mas,  Banyumas",Y,32543595,Male,23836519211,"Gendewo Mas,  Banyumas"
+384,Bayu Saputra,"Warastra Jati,  Gunungkidul",Y,32543596,Male,23836519212,"Warastra Jati,  Gunungkidul"
+385,Satino,"Paguyuban Wirotomo , Jogja",Y,32543597,Male,23836519213,"Paguyuban Wirotomo , Jogja"
+386,Sukardi,"Patri Jiwo,  Gunungkidul",Y,32543598,Male,23836519214,"Patri Jiwo,  Gunungkidul"
+387,Mochamad Arifin,Djemparingan  Mojokerto,Y,32543599,Male,23836519215,Djemparingan  Mojokerto
+388,Soni Laksono,"Ki Ageng Lembah Manah, Yogyakarta",Y,32543600,Male,23836519216,"Ki Ageng Lembah Manah, Yogyakarta"
+389,Lambang Aji,"Ki Ageng Lembah Manah, Yogyakarta",Z,32543601,Male,23836519217,"Ki Ageng Lembah Manah, Yogyakarta"
+390,Kris Budiharjo,Bwt,Z,32543602,Male,23836519218,Bwt
+391,Budaya,Kridobusoro Klaten,Z,32543603,Male,23836519219,Kridobusoro Klaten
+392,Danisubandono,Agung Sedayu Jogja,Z,32543604,Male,23836519220,Agung Sedayu Jogja
+393,Suhar,"Kensinau, Kulon Progo",Z,32543605,Male,23836519221,"Kensinau, Kulon Progo"
+394,Sofyan Haryadi,"Tajem, Sukoharjo",Z,32543606,Male,23836519222,"Tajem, Sukoharjo"
+395,Opik,"Jcc, Sleman",Z,32543607,Male,23836519223,"Jcc, Sleman"
+396,Raden Novie Kurniawan,"Walet Basura Pajajaran, Jawa Barat",Z,32543608,Male,23836519224,"Walet Basura Pajajaran, Jawa Barat"
+397,Reistu Windu Pramudianarto,Kawedanan Kaprajuritan 1 Karaton Yogyakarta,Z,32543609,Male,23836519225,Kawedanan Kaprajuritan 1 Karaton Yogyakarta
+398,Kristian Prihantoro,"Ronggo Sedayu, Klaten",Z,32543610,Male,23836519226,"Ronggo Sedayu, Klaten"
+399,Muhammad Singgih,Jemparingan Panggungharjo Bantul,Z,32543611,Male,23836519227,Jemparingan Panggungharjo Bantul
+400,Riyanta,"Warastra ,  Sleman",Z,32543612,Male,23836519228,"Warastra ,  Sleman"
+401,Mr. Jery,"Gendewo Mas,  Banyumas",Z,32543613,Male,23836519229,"Gendewo Mas,  Banyumas"
+402,Nurdin M Zakaria,"Jemparingan Tasikmalaya, Jawa Barat",Z,32543614,Male,23836519230,"Jemparingan Tasikmalaya, Jawa Barat"
+403,Herman,"Jemparingan Tasikmalaya, Jawa Barat",AA,32543615,Male,23836519231,"Jemparingan Tasikmalaya, Jawa Barat"
+404,Banu F,"Jcc, Sleman",AA,32543616,Male,23836519232,"Jcc, Sleman"
+405,Budi Susilo,"Ki Ageng Lembah Manah, Yogyakarta",AA,32543617,Male,23836519233,"Ki Ageng Lembah Manah, Yogyakarta"
+406,Mochamad Nugroho,"Lembah Manah, Wonogiri",AA,32543618,Male,23836519234,"Lembah Manah, Wonogiri"
+407,Lea ,"Kensinau, Kulon Progo",AA,32543619,Male,23836519235,"Kensinau, Kulon Progo"
+408,M Yazid,Agung Sedayu Jogja,AA,32543620,Male,23836519236,Agung Sedayu Jogja
+409,Ahmed Nur Kholis,"Ronggo Sedayu, Klaten",AA,32543621,Male,23836519237,"Ronggo Sedayu, Klaten"
+410,Budi Triono,"Hantu Maut, Yogyakarta",AA,32543622,Male,23836519238,"Hantu Maut, Yogyakarta"
+411,Winaryo,"Warastra ,  Sleman",AA,32543623,Male,23836519239,"Warastra ,  Sleman"
+412,Andri Wantoro,Jemparingan Panggungharjo Bantul,AA,32543624,Male,23836519240,Jemparingan Panggungharjo Bantul
+413,Hasim Bahri,"Walet Basura Pajajaran, Jawa Barat",AA,32543625,Male,23836519241,"Walet Basura Pajajaran, Jawa Barat"
+414,Sugianto,"Gendewo Mas,  Banyumas",AA,32543626,Male,23836519242,"Gendewo Mas,  Banyumas"
+415,Charol,"Paguyuban Wirotomo , Jogja",AA,32543627,Male,23836519243,"Paguyuban Wirotomo , Jogja"
+416,Safrudin,"Patri Jiwo,  Gunungkidul",AA,32543628,Male,23836519244,"Patri Jiwo,  Gunungkidul"
+417,Sulardi," Jbs, Solo",AA,32543629,Male,23836519245," Jbs, Solo"
+418,Sutardi Heryana,"Walet Basura Pajajaran, Jawa Barat",AB,32543630,Male,23836519246,"Walet Basura Pajajaran, Jawa Barat"
+419,Haryanto,"Lembah Manah, Wonogiri",AB,32543631,Male,23836519247,"Lembah Manah, Wonogiri"
+420,Agung Budi,"Hantu Maut, Yogyakarta",AB,32543632,Male,23836519248,"Hantu Maut, Yogyakarta"
+421,Cris Wibowo,"Warastra Jati,  Gunungkidul",AB,32543633,Male,23836519249,"Warastra Jati,  Gunungkidul"
+422,Johan,"Gendewo Mas,  Banyumas",AB,32543634,Male,23836519250,"Gendewo Mas,  Banyumas"
+423,Asep Yulianto,"Digjaya Jemparingan, Jabar",AB,32543635,Male,23836519251,"Digjaya Jemparingan, Jabar"
+424,Ida Rasyid Rida,"Gondewa & Jamparing Galuh Ciamis, Jawa Barat",AB,32543636,Male,23836519252,"Gondewa & Jamparing Galuh Ciamis, Jawa Barat"
+425,Slamet Riyadi,"Patri Jiwo,  Gunungkidul",AB,32543637,Male,23836519253,"Patri Jiwo,  Gunungkidul"
+426,Yusroni,"Paguyuban Hizbul Wathan, Sukoharjo",AB,32543638,Male,23836519254,"Paguyuban Hizbul Wathan, Sukoharjo"
+427,Inggit Wibowo,"Deling Aji, Bantul",AB,32543639,Male,23836519255,"Deling Aji, Bantul"
+428,Darto,"Paguyuban Wirotomo , Jogja",AB,32543640,Male,23836519256,"Paguyuban Wirotomo , Jogja"
+429,Sutopo,"Kensinau, Kulon Progo",AB,32543641,Male,23836519257,"Kensinau, Kulon Progo"
+430,Sumaryadi,Agung Sedayu Jogja,AB,32543642,Male,23836519258,Agung Sedayu Jogja
+431,Okta Kusuma,"Ronggo Sedayu, Klaten",AB,32543643,Male,23836519259,"Ronggo Sedayu, Klaten"
+432,Tata Saripudin,"Bolang Jemparing,  Jawa Barat",AB,32543644,Male,23836519260,"Bolang Jemparing,  Jawa Barat"
+433,Rustam Alamsyah,"Hantu Maut, Yogyakarta",AC,32543645,Male,23836519261,"Hantu Maut, Yogyakarta"
+434,Mardi Hidayatul  Fauzan,"Walet Basura Pajajaran, Jawa Barat",AC,32543646,Male,23836519262,"Walet Basura Pajajaran, Jawa Barat"
+435,Heru Budoyo,"Gendewo Mas,  Banyumas",AC,32543647,Male,23836519263,"Gendewo Mas,  Banyumas"
+436,Tio,"Paguyuban Wirotomo , Jogja",AC,32543648,Male,23836519264,"Paguyuban Wirotomo , Jogja"
+437,Budhi Basuki,"Patri Jiwo,  Gunungkidul",AC,32543649,Male,23836519265,"Patri Jiwo,  Gunungkidul"
+438,Margono," Jbs, Solo",AC,32543650,Male,23836519266," Jbs, Solo"
+439,Andi,"Paguyuban Hizbul Wathan, Sukoharjo",AC,32543651,Male,23836519267,"Paguyuban Hizbul Wathan, Sukoharjo"
+440,Kumoro Agung,"Deling Aji, Bantul",AC,32543652,Male,23836519268,"Deling Aji, Bantul"
+441,Wawan,"Bolang Jemparing,  Jawa Barat",AC,32543653,Male,23836519269,"Bolang Jemparing,  Jawa Barat"
+442,Gatot Setyo Nugroho,"Jemparingan Sar Ser, Banyumas.",AC,32543654,Male,23836519270,"Jemparingan Sar Ser, Banyumas."
+443,Tukiman,"Brotodiningrat, Jogja",AC,32543655,Male,23836519271,"Brotodiningrat, Jogja"
+444,Slamet Juanto ,"Pratjimahastra, Boyolali",AC,32543656,Male,23836519272,"Pratjimahastra, Boyolali"
+445,Faros,"Jurang Pawon, Boyolali",AC,32543657,Male,23836519273,"Jurang Pawon, Boyolali"
+446,Ahmad Tofik,"Al Fath Archery, Klaten",AC,32543658,Male,23836519274,"Al Fath Archery, Klaten"
+447,Fauzan,"Alharist Archery , Jabar",AC,32543659,Male,23836519275,"Alharist Archery , Jabar"
+448,Denny,"Paguyuban Hizbul Wathan, Sukoharjo",AD,32543660,Male,23836519276,"Paguyuban Hizbul Wathan, Sukoharjo"
+449,Agus,"Paguyuban Wirotomo , Jogja",AD,32543661,Male,23836519277,"Paguyuban Wirotomo , Jogja"
+450,Heri Sukrisno,"Hantu Maut, Yogyakarta",AD,32543662,Male,23836519278,"Hantu Maut, Yogyakarta"
+451,Asep Wahidin,"Walet Basura Pajajaran, Jawa Barat",AD,32543663,Male,23836519279,"Walet Basura Pajajaran, Jawa Barat"
+452,Gunadi,"Sarang Aji Karsa, Kebumen",AD,32543664,Male,23836519280,"Sarang Aji Karsa, Kebumen"
+453,Nunu S,"Bolang Jemparing,  Jawa Barat",AD,32543665,Male,23836519281,"Bolang Jemparing,  Jawa Barat"
+454,Heru Pratomo Adji,"Jemparingan Sar Ser, Banyumas.",AD,32543666,Male,23836519282,"Jemparingan Sar Ser, Banyumas."
+455,M. Zeni Purnomo,"Deling Aji, Bantul",AD,32543667,Male,23836519283,"Deling Aji, Bantul"
+456,Joe,"Brotodiningrat, Jogja",AD,32543668,Male,23836519284,"Brotodiningrat, Jogja"
+457,Sugiyanto (Bowo),"Pratjimahastra, Boyolali",AD,32543669,Male,23836519285,"Pratjimahastra, Boyolali"
+458,Suryani,"Jurang Pawon, Boyolali",AD,32543670,Male,23836519286,"Jurang Pawon, Boyolali"
+459,Anto,"Al Fath Archery, Klaten",AD,32543671,Male,23836519287,"Al Fath Archery, Klaten"
+460,Toto Sunarto,"Alharist Archery , Jabar",AD,32543672,Male,23836519288,"Alharist Archery , Jabar"
+461,Min Gandring,"Sipas Tunggul Wulung, Klaten",AD,32543673,Male,23836519289,"Sipas Tunggul Wulung, Klaten"
+462,Gunawan,"Gajah Siraman, Jogja",AD,32543674,Male,23836519290,"Gajah Siraman, Jogja"
+463,Roejianto,"Jemparingan Sar Ser, Banyumas.",AE,32543675,Male,23836519291,"Jemparingan Sar Ser, Banyumas."
+464,Saiful,"Paguyuban Hizbul Wathan, Sukoharjo",AE,32543676,Male,23836519292,"Paguyuban Hizbul Wathan, Sukoharjo"
+465,Sumarjo,"Hantu Maut, Yogyakarta",AE,32543677,Male,23836519293,"Hantu Maut, Yogyakarta"
+466,Eman Suherman,"Walet Basura Pajajaran, Jawa Barat",AE,32543678,Male,23836519294,"Walet Basura Pajajaran, Jawa Barat"
+467,Heru,"Paguyuban Wirotomo , Jogja",AE,32543679,Male,23836519295,"Paguyuban Wirotomo , Jogja"
+468,Aryawanto Soebandono,"Brotodiningrat, Jogja",AE,32543680,Male,23836519296,"Brotodiningrat, Jogja"
+469,Hanafi,"Deling Aji, Bantul",AE,32543681,Male,23836519297,"Deling Aji, Bantul"
+470,Slamet Rianto,"Pratjimahastra, Boyolali",AE,32543682,Male,23836519298,"Pratjimahastra, Boyolali"
+471,Alfan,"Jurang Pawon, Boyolali",AE,32543683,Male,23836519299,"Jurang Pawon, Boyolali"
+472,Qomar,"Al Fath Archery, Klaten",AE,32543684,Male,23836519300,"Al Fath Archery, Klaten"
+473,Ari Suryana,"Sipas Tunggul Wulung, Klaten",AE,32543685,Male,23836519301,"Sipas Tunggul Wulung, Klaten"
+474,Karyono,"Wisanggeni, Bantul",AE,32543686,Male,23836519302,"Wisanggeni, Bantul"
+475,Ibnu Mubarok,"Suryastrawara, Yogyakarta",AE,32543687,Male,23836519303,"Suryastrawara, Yogyakarta"
+476,Musthofa,"Jkobar, Surakarta",AE,32543688,Male,23836519304,"Jkobar, Surakarta"
+477,Dwijoko,"Kanwa, Sukoharjo",AE,32543689,Male,23836519305,"Kanwa, Sukoharjo"
+478,Slamet Sutarno,"Pratjimahastra, Boyolali",AF,32543690,Male,23836519306,"Pratjimahastra, Boyolali"
+479,Asmanu Budi Sambojo,"Hantu Maut, Yogyakarta",AF,32543691,Male,23836519307,"Hantu Maut, Yogyakarta"
+480,Sholikin,"Jurang Pawon, Boyolali",AF,32543692,Male,23836519308,"Jurang Pawon, Boyolali"
+481,Sariman,"Deling Aji, Bantul",AF,32543693,Male,23836519309,"Deling Aji, Bantul"
+482,Heru Wismanto,"Jemparingan Sar Ser, Banyumas.",AF,32543694,Male,23836519310,"Jemparingan Sar Ser, Banyumas."
+483,Andi Yuwono,"Brotodiningrat, Jogja",AF,32543695,Male,23836519311,"Brotodiningrat, Jogja"
+484,Deni Kusna,"Trj Jemparing,  Bandung",AF,32543696,Male,23836519312,"Trj Jemparing,  Bandung"
+485,Rasmin Surachman,"Raspati Jamparing,  Bandung",AF,32543697,Male,23836519313,"Raspati Jamparing,  Bandung"
+486,Wawan,"Paguyuban Wirotomo , Jogja",AF,32543698,Male,23836519314,"Paguyuban Wirotomo , Jogja"
+487,Junaidi,"Paguyuban Hizbul Wathan, Sukoharjo",AF,32543699,Male,23836519315,"Paguyuban Hizbul Wathan, Sukoharjo"
+488,Fatkhur,"Al Fath Archery, Klaten",AF,32543700,Male,23836519316,"Al Fath Archery, Klaten"
+489,Nugroho Budi Santoso,"Sipas Tunggul Wulung, Klaten",AF,32543701,Male,23836519317,"Sipas Tunggul Wulung, Klaten"
+490,Rudi Hartono,"Suryastrawara, Yogyakarta",AF,32543702,Male,23836519318,"Suryastrawara, Yogyakarta"
+491,Arif Fatoni,"Jkobar, Surakarta",AF,32543703,Male,23836519319,"Jkobar, Surakarta"
+492,Reza Sabian,"Kanwa, Sukoharjo",AF,32543704,Male,23836519320,"Kanwa, Sukoharjo"
+493,M. Taufik,"Al Fath Archery, Klaten",AG,32543705,Male,23836519321,"Al Fath Archery, Klaten"
+494,Arief Kuncoro,"Alharist Archery , Jabar",AG,32543706,Male,23836519322,"Alharist Archery , Jabar"
+495,Indratmoko,"Pratjimahastra, Boyolali",AG,32543707,Male,23836519323,"Pratjimahastra, Boyolali"
+496,Zain Nurohman,"Deling Aji, Bantul",AG,32543708,Male,23836519324,"Deling Aji, Bantul"
+497,Ismu Raditya,"Hantu Maut, Yogyakarta",AG,32543709,Male,23836519325,"Hantu Maut, Yogyakarta"
+498,Zen,"Paguyuban Hizbul Wathan, Sukoharjo",AG,32543710,Male,23836519326,"Paguyuban Hizbul Wathan, Sukoharjo"
+499,Widodo,"Jurang Pawon, Boyolali",AG,32543711,Male,23836519327,"Jurang Pawon, Boyolali"
+500,Suhirman,"Suryastrawara, Yogyakarta",AG,32543712,Male,23836519328,"Suryastrawara, Yogyakarta"
+501,Iwan Romadhon,"Sipas Tunggul Wulung, Klaten",AG,32543713,Male,23836519329,"Sipas Tunggul Wulung, Klaten"
+502,Nanank,"Jkobar, Surakarta",AG,32543714,Male,23836519330,"Jkobar, Surakarta"
+503,Mauluna Kiswata,"Tirto Kembaran, Jogja",AG,32543715,Male,23836519331,"Tirto Kembaran, Jogja"
+504,Nugroho Purnomo Putro,"Adiwinoto,  Yogyakarta",AG,32543716,Male,23836519332,"Adiwinoto,  Yogyakarta"
+505,Andriyandono,Kawedanan Kaprajuritan 1 Karaton Yogyakarta,AG,32543717,Male,23836519333,Kawedanan Kaprajuritan 1 Karaton Yogyakarta
+506,Reka,Ardjo Kliwon Jogja,AG,32543718,Male,23836519334,Ardjo Kliwon Jogja
+507,Sukirman,Pnj Sidoarjo,AG,32543719,Male,23836519335,Pnj Sidoarjo
+508,Rokhim,"Gajah Siraman, Jogja",AH,32543720,Male,23836519336,"Gajah Siraman, Jogja"
+509,Winarno,"Pratjimahastra, Boyolali",AH,32543721,Male,23836519337,"Pratjimahastra, Boyolali"
+510,Adnan,"Wisanggeni, Bantul",AH,32543722,Male,23836519338,"Wisanggeni, Bantul"
+511,Bowo,"Paguyuban Hizbul Wathan, Sukoharjo",AH,32543723,Male,23836519339,"Paguyuban Hizbul Wathan, Sukoharjo"
+512,Wahono,"Jurang Pawon, Boyolali",AH,32543724,Male,23836519340,"Jurang Pawon, Boyolali"
+513,Ridwan,"Al Fath Archery, Klaten",AH,32543725,Male,23836519341,"Al Fath Archery, Klaten"
+514,Harjanto,"Sipas Tunggul Wulung, Klaten",AH,32543726,Male,23836519342,"Sipas Tunggul Wulung, Klaten"
+515,Saiful Anam,"Suryastrawara, Yogyakarta",AH,32543727,Male,23836519343,"Suryastrawara, Yogyakarta"
+516,Ananda Catur Putra,"Tirto Kembaran, Jogja",AH,32543728,Male,23836519344,"Tirto Kembaran, Jogja"
+517,Muhammad Azim Rozi,"Adiwinoto,  Yogyakarta",AH,32543729,Male,23836519345,"Adiwinoto,  Yogyakarta"
+518,Mufti Khanafi,Kawedanan Kaprajuritan 1 Karaton Yogyakarta,AH,32543730,Male,23836519346,Kawedanan Kaprajuritan 1 Karaton Yogyakarta
+519,Lukman Santoso,"Jkobar, Surakarta",AH,32543731,Male,23836519347,"Jkobar, Surakarta"
+520,Yafi,Ardjo Kliwon Jogja,AH,32543732,Male,23836519348,Ardjo Kliwon Jogja
+521,Hendra S Leksana,Pnj Sidoarjo,AH,32543733,Male,23836519349,Pnj Sidoarjo
+522,Alsa Daruna,Jmg Pacitan,AH,32543734,Male,23836519350,Jmg Pacitan
+523,Budiawan,"Jkobar, Surakarta",AI,32543735,Male,23836519351,"Jkobar, Surakarta"
+524,Hendri Avrianto,"Sipas Tunggul Wulung, Klaten",AI,32543736,Male,23836519352,"Sipas Tunggul Wulung, Klaten"
+525,Muh.Aqeel Adz-Dzaky,"Suryastrawara, Yogyakarta",AI,32543737,Male,23836519353,"Suryastrawara, Yogyakarta"
+526,Gatut S,"Pratjimahastra, Boyolali",AI,32543738,Male,23836519354,"Pratjimahastra, Boyolali"
+527,Warsono,"Al Fath Archery, Klaten",AI,32543739,Male,23836519355,"Al Fath Archery, Klaten"
+528,Purwanto,"Wiratama Ad, Jogja",AI,32543740,Male,23836519356,"Wiratama Ad, Jogja"
+529,Catur Hari,"Kanwa, Sukoharjo",AI,32543741,Male,23836519357,"Kanwa, Sukoharjo"
+530,Dadang Dedianto,"Adiwinoto,  Yogyakarta",AI,32543742,Male,23836519358,"Adiwinoto,  Yogyakarta"
+531,Ary Yunanto,Kawedanan Kaprajuritan 1 Karaton Yogyakarta,AI,32543743,Male,23836519359,Kawedanan Kaprajuritan 1 Karaton Yogyakarta
+532,Adi Budi,Pnj Sidoarjo,AI,32543744,Male,23836519360,Pnj Sidoarjo
+533,Nur Hidayat,Jmg Pacitan,AI,32543745,Male,23836519361,Jmg Pacitan
+534,Gendro,"Manunggal Roso, Klaten",AI,32543746,Male,23836519362,"Manunggal Roso, Klaten"
+535,Ganjar Wahyudi,"Aji Saka, Yogyakarta",AI,32543747,Male,23836519363,"Aji Saka, Yogyakarta"
+536,Dede Kusmana,"Cakra Wulung, Tasikmalaya",AI,32543748,Male,23836519364,"Cakra Wulung, Tasikmalaya"
+537,Firdy Hangga Saputra,"Tirto Kembaran, Jogja",AI,32543749,Male,23836519365,"Tirto Kembaran, Jogja"
+538,Jarot,"Tirto Kembaran, Jogja",AJ,32543750,Male,23836519366,"Tirto Kembaran, Jogja"
+539,Santo,"Al Fath Archery, Klaten",AJ,32543751,Male,23836519367,"Al Fath Archery, Klaten"
+540,Yusuf Zaky Setiawan,"Sipas Tunggul Wulung, Klaten",AJ,32543752,Male,23836519368,"Sipas Tunggul Wulung, Klaten"
+541,Budiono,"Pratjimahastra, Boyolali",AJ,32543753,Male,23836519369,"Pratjimahastra, Boyolali"
+542,Toriq Rasidi,"Jkobar, Surakarta",AJ,32543754,Male,23836519370,"Jkobar, Surakarta"
+543,Rasyidin,Pnj Sidoarjo,AJ,32543755,Male,23836519371,Pnj Sidoarjo
+544,Nyata Hadi,Jmg Pacitan,AJ,32543756,Male,23836519372,Jmg Pacitan
+545,Kuncoro,"Manunggal Roso, Klaten",AJ,32543757,Male,23836519373,"Manunggal Roso, Klaten"
+546,Ari Apriono,"Aji Saka, Yogyakarta",AJ,32543758,Male,23836519374,"Aji Saka, Yogyakarta"
+547,Agus Supriyadi,"Adiwinoto,  Yogyakarta",AJ,32543759,Male,23836519375,"Adiwinoto,  Yogyakarta"
+548,Sandi,"Cakra Wulung, Tasikmalaya",AJ,32543760,Male,23836519376,"Cakra Wulung, Tasikmalaya"
+549,Margono,"Jaluwasi,  Jogja",AJ,32543761,Male,23836519377,"Jaluwasi,  Jogja"
+550,Basuki,"Kanjeng Ngeksigondo, Jogja",AJ,32543762,Male,23836519378,"Kanjeng Ngeksigondo, Jogja"
+551,Sastropandiperwito,"Sambisena, Yogyakarta",AJ,32543763,Male,23836519379,"Sambisena, Yogyakarta"
+552,Rahmat Basuki,"Senopati Archery , Sukoharjo",AJ,32543764,Male,23836519380,"Senopati Archery , Sukoharjo"
+553,Aditya Agung Wibowo,"Adiwinoto,  Yogyakarta",AK,32543765,Male,23836519381,"Adiwinoto,  Yogyakarta"
+554,M Taufel,"Tirto Kembaran, Jogja",AK,32543766,Male,23836519382,"Tirto Kembaran, Jogja"
+555,Moh Galib,"Jkobar, Surakarta",AK,32543767,Male,23836519383,"Jkobar, Surakarta"
+556,Bambang Mbuka Nugraha,"Sipas Tunggul Wulung, Klaten",AK,32543768,Male,23836519384,"Sipas Tunggul Wulung, Klaten"
+557,Hanung,"Kanjeng Ngeksigondo, Jogja",AK,32543769,Male,23836519385,"Kanjeng Ngeksigondo, Jogja"
+558,Tri Gunawan,Kawedanan Kaprajuritan 1 Karaton Yogyakarta,AK,32543770,Male,23836519386,Kawedanan Kaprajuritan 1 Karaton Yogyakarta
+559,Yanu Anggara,Pnj Sidoarjo,AK,32543771,Male,23836519387,Pnj Sidoarjo
+560,Anang,Jmg Pacitan,AK,32543772,Male,23836519388,Jmg Pacitan
+561,Cahyo,"Manunggal Roso, Klaten",AK,32543773,Male,23836519389,"Manunggal Roso, Klaten"
+562,Ditya,"Jaluwasi,  Jogja",AK,32543774,Male,23836519390,"Jaluwasi,  Jogja"
+563,Dian,"Cakra Wulung, Tasikmalaya",AK,32543775,Male,23836519391,"Cakra Wulung, Tasikmalaya"
+564,B Ganaliza Ardyanto,"Sambisena, Yogyakarta",AK,32543776,Male,23836519392,"Sambisena, Yogyakarta"
+565,Tri Pujo,"Senopati Archery , Sukoharjo",AK,32543777,Male,23836519393,"Senopati Archery , Sukoharjo"
+566,Amir Hamzah,"Jamasi, Bantul",AK,32543778,Male,23836519394,"Jamasi, Bantul"
+567,Wahyu Yuli Hartono,Perpatri Nusantara Jaya - Jogja,AK,32543779,Male,23836519395,Perpatri Nusantara Jaya - Jogja
+568,Erwan Supriyanto,Kawedanan Kaprajuritan 2 Karaton Yogyakarta,AL,32543780,Male,23836519396,Kawedanan Kaprajuritan 2 Karaton Yogyakarta
+569,Slamet Murwanto,"Tirto Kembaran, Jogja",AL,32543781,Male,23836519397,"Tirto Kembaran, Jogja"
+570,Suparjo Rustam,"Al Fath Archery, Klaten",AL,32543782,Male,23836519398,"Al Fath Archery, Klaten"
+571,Tri Atmanto,"Jkobar, Surakarta",AL,32543783,Male,23836519399,"Jkobar, Surakarta"
+572,Purwanto,"Pasty Istimewa ,  Yogyakarta",AL,32543784,Male,23836519400,"Pasty Istimewa ,  Yogyakarta"
+573,Joko Prasetyo,"Adiwinoto,  Yogyakarta",AL,32543785,Male,23836519401,"Adiwinoto,  Yogyakarta"
+574,Tiyono Achmadi,Jmg Pacitan,AL,32543786,Male,23836519402,Jmg Pacitan
+575,Sumarno,"Aji Saka, Yogyakarta",AL,32543787,Male,23836519403,"Aji Saka, Yogyakarta"
+576,Widi,"Jaluwasi,  Jogja",AL,32543788,Male,23836519404,"Jaluwasi,  Jogja"
+577,Heri S,"Kanjeng Ngeksigondo, Jogja",AL,32543789,Male,23836519405,"Kanjeng Ngeksigondo, Jogja"
+578,Odie,"Senopati Archery , Sukoharjo",AL,32543790,Male,23836519406,"Senopati Archery , Sukoharjo"
+579,Satria Alde Nala Asahaja,"Jamasi, Bantul",AL,32543791,Male,23836519407,"Jamasi, Bantul"
+580,Ir. Sudaryanto,Perpatri Nusantara Jaya - Jogja,AL,32543792,Male,23836519408,Perpatri Nusantara Jaya - Jogja
+581,Ans Nawantara,"Marto, Jogja",AL,32543793,Male,23836519409,"Marto, Jogja"
+582,Sukiman,"Al Jawi, Wonogiri",AL,32543794,Male,23836519410,"Al Jawi, Wonogiri"
+583,Ardi Pamikat,Kawedanan Kaprajuritan 3 Karaton Yogyakarta,AM,32543795,Male,23836519411,Kawedanan Kaprajuritan 3 Karaton Yogyakarta
+584,Aris Budi Wahono,Ardjo Kliwon Jogja,AM,32543796,Male,23836519412,Ardjo Kliwon Jogja
+585,Abah Hari,Pnj Sidoarjo,AM,32543797,Male,23836519413,Pnj Sidoarjo
+586,Hernawan,Jmg Pacitan,AM,32543798,Male,23836519414,Jmg Pacitan
+587,Seno,"Al Fath Archery, Klaten",AM,32543799,Male,23836519415,"Al Fath Archery, Klaten"
+588,Darmono,"Jkobar, Surakarta",AM,32543800,Male,23836519416,"Jkobar, Surakarta"
+589,Dwi Purwanto,"Tirto Kembaran, Jogja",AM,32543801,Male,23836519417,"Tirto Kembaran, Jogja"
+590,Bambang Purnomo,"Adiwinoto,  Yogyakarta",AM,32543802,Male,23836519418,"Adiwinoto,  Yogyakarta"
+591,Suharjono,"Marto, Jogja",AM,32543803,Male,23836519419,"Marto, Jogja"
+592,Agung Prasetyo Subroto,Perpatri Nusantara Jaya - Jogja,AM,32543804,Male,23836519420,Perpatri Nusantara Jaya - Jogja
+593,Haryoko,"Jamasi, Bantul",AM,32543805,Male,23836519421,"Jamasi, Bantul"
+594,Erri,"Kanjeng Ngeksigondo, Jogja",AM,32543806,Male,23836519422,"Kanjeng Ngeksigondo, Jogja"
+595,Triyono,"Senopati Archery , Sukoharjo",AM,32543807,Male,23836519423,"Senopati Archery , Sukoharjo"
+596,Yatno,Pashupatastra Magetan,AM,32543808,Male,23836519424,Pashupatastra Magetan
+597,Istiardi,"Batara Archery, Jogja",AM,32543809,Male,23836519425,"Batara Archery, Jogja"
+598,Singgih,"Jaluwasi,  Jogja",AN,32543810,Male,23836519426,"Jaluwasi,  Jogja"
+599,Roedito,Jmg Pacitan,AN,32543811,Male,23836519427,Jmg Pacitan
+600,Fx Purnomo,"Jkobar, Surakarta",AN,32543812,Male,23836519428,"Jkobar, Surakarta"
+601,Yonni Prasetya,"Tirto Kembaran, Jogja",AN,32543813,Male,23836519429,"Tirto Kembaran, Jogja"
+602,Janu Prasetyo,"Adiwinoto,  Yogyakarta",AN,32543814,Male,23836519430,"Adiwinoto,  Yogyakarta"
+603,Wisnu Agung Jayeng,Kawedanan Kaprajuritan 1 Karaton Yogyakarta,AN,32543815,Male,23836519431,Kawedanan Kaprajuritan 1 Karaton Yogyakarta
+604,Widodo,"Senopati Archery , Sukoharjo",AN,32543816,Male,23836519432,"Senopati Archery , Sukoharjo"
+605,Andi Haryanto,"Jamasi, Bantul",AN,32543817,Male,23836519433,"Jamasi, Bantul"
+606,Udaryanto,Perpatri Nusantara Jaya - Jogja,AN,32543818,Male,23836519434,Perpatri Nusantara Jaya - Jogja
+607,Budi,Pashupatastra Magetan,AN,32543819,Male,23836519435,Pashupatastra Magetan
+608,Sugihartanto,"Batara Archery, Jogja",AN,32543820,Male,23836519436,"Batara Archery, Jogja"
+609,Muh Nur Rokhim,Gading Archery. Klaten,AN,32543821,Male,23836519437,Gading Archery. Klaten
+610,Budi Anre,"Kali Yuga, Diy",AN,32543822,Male,23836519438,"Kali Yuga, Diy"
+611,Karen Hardjo,"Pringgama,  Yogyakarta",AN,32543823,Male,23836519439,"Pringgama,  Yogyakarta"
+612,Sutarno,"Yaaqowiyyu,  Klaten",AN,32543824,Male,23836519440,"Yaaqowiyyu,  Klaten"
+613,Jeck Mahendra,"Manunggal Roso, Klaten",AO,32543825,Male,23836519441,"Manunggal Roso, Klaten"
+614,Sutrisno,Jmg Pacitan,AO,32543826,Male,23836519442,Jmg Pacitan
+615,Heru Mulyono,"Pari Unggul, Jogja",AO,32543827,Male,23836519443,"Pari Unggul, Jogja"
+616,Bayu,"Jrs, Jogja",AO,32543828,Male,23836519444,"Jrs, Jogja"
+617,Sholeh,"Jkobar, Surakarta",AO,32543829,Male,23836519445,"Jkobar, Surakarta"
+618,Nurhadi,"Tirto Kembaran, Jogja",AO,32543830,Male,23836519446,"Tirto Kembaran, Jogja"
+619,Rahmawan Rahadian Sakti,"Adiwinoto,  Yogyakarta",AO,32543831,Male,23836519447,"Adiwinoto,  Yogyakarta"
+620,Enget Mustangin,"Aji Saka, Yogyakarta",AO,32543832,Male,23836519448,"Aji Saka, Yogyakarta"
+621,Sandy Nurdianto,Archery Club Tasikmalaya (Act) Tasikmalaya,AO,32543833,Male,23836519449,Archery Club Tasikmalaya (Act) Tasikmalaya
+622,Dedi Supriadi,"Cakra Wulung, Tasikmalaya",AO,32543834,Male,23836519450,"Cakra Wulung, Tasikmalaya"
+623,Setiawan Aji,"Senopati Archery , Sukoharjo",AO,32543835,Male,23836519451,"Senopati Archery , Sukoharjo"
+624,Jaka Sunarya,Kawedanan Kaprajuritan 3 Karaton Yogyakarta,AO,32543836,Male,23836519452,Kawedanan Kaprajuritan 3 Karaton Yogyakarta
+625,M Fajar Apriyanto,"Jamasi, Bantul",AO,32543837,Male,23836519453,"Jamasi, Bantul"
+626,Indratra Cakradigdaya,Perpatri Nusantara Jaya - Jogja,AO,32543838,Male,23836519454,Perpatri Nusantara Jaya - Jogja
+627,Isnu Tw,"Jaluwasi,  Jogja",AO,32543839,Male,23836519455,"Jaluwasi,  Jogja"
+628,Ridwan,"Jaluwasi,  Jogja",AP,32543840,Male,23836519456,"Jaluwasi,  Jogja"
+629,Isnari,"Adiwinoto,  Yogyakarta",AP,32543841,Male,23836519457,"Adiwinoto,  Yogyakarta"
+630,Kurniawan Wahyu Pamungkas,Kawedanan Kaprajuritan 3 Karaton Yogyakarta,AP,32543842,Male,23836519458,Kawedanan Kaprajuritan 3 Karaton Yogyakarta
+631,Tony,Jmg Pacitan,AP,32543843,Male,23836519459,Jmg Pacitan
+632,Muh Nazir Indra,"Jkobar, Surakarta",AP,32543844,Male,23836519460,"Jkobar, Surakarta"
+633,Sringatipan,"Krido Purihutomo, Klaten",AP,32543845,Male,23836519461,"Krido Purihutomo, Klaten"
+634,Margi,"Manunggal Roso, Klaten",AP,32543846,Male,23836519462,"Manunggal Roso, Klaten"
+635,Sri Suharjo,"Senopati Archery , Sukoharjo",AP,32543847,Male,23836519463,"Senopati Archery , Sukoharjo"
+636,Budi Laksono,Perpatri Nusantara Jaya - Jogja,AP,32543848,Male,23836519464,Perpatri Nusantara Jaya - Jogja
+637,Anang Sumarno,Pashupatastra Magetan,AP,32543849,Male,23836519465,Pashupatastra Magetan
+638,Yusuf,Gading Archery. Klaten,AP,32543850,Male,23836519466,Gading Archery. Klaten
+639,Prapanca,"Kali Yuga, Diy",AP,32543851,Male,23836519467,"Kali Yuga, Diy"
+640,I Gede Mujiyatna,"Pringgama,  Yogyakarta",AP,32543852,Male,23836519468,"Pringgama,  Yogyakarta"
+641,Sutikno,"Kanjeng Ngeksigondo, Jogja",AP,32543853,Male,23836519469,"Kanjeng Ngeksigondo, Jogja"
+642,Sujito,"Yaaqowiyyu,  Klaten",AP,32543854,Male,23836519470,"Yaaqowiyyu,  Klaten"
+643,Edy Pramono,"Senopati Archery , Sukoharjo",AQ,32543855,Male,23836519471,"Senopati Archery , Sukoharjo"
+644,Edi,"Kanjeng Ngeksigondo, Jogja",AQ,32543856,Male,23836519472,"Kanjeng Ngeksigondo, Jogja"
+645,Soeprijatno,"Sambisena, Yogyakarta",AQ,32543857,Male,23836519473,"Sambisena, Yogyakarta"
+646,Dwi Jalak,"Kalimosodo, Klaten",AQ,32543858,Male,23836519474,"Kalimosodo, Klaten"
+647,Prasetya Budi Santoso,Kawedanan Kaprajuritan 1 Karaton Yogyakarta,AQ,32543859,Male,23836519475,Kawedanan Kaprajuritan 1 Karaton Yogyakarta
+648,Tulus Hidayat,Jmg Pacitan,AQ,32543860,Male,23836519476,Jmg Pacitan
+649,Angga,"Jaluwasi,  Jogja",AQ,32543861,Male,23836519477,"Jaluwasi,  Jogja"
+650,Abdullah,"Jkobar, Surakarta",AQ,32543862,Male,23836519478,"Jkobar, Surakarta"
+651,Ilvan Rio Aryandi,"Adiwinoto,  Yogyakarta",AQ,32543863,Male,23836519479,"Adiwinoto,  Yogyakarta"
+652,Zhajit,Pashupatastra Magetan,AQ,32543864,Male,23836519480,Pashupatastra Magetan
+653,Usman,Gading Archery. Klaten,AQ,32543865,Male,23836519481,Gading Archery. Klaten
+654,Haryanta,"Pringgama,  Yogyakarta",AQ,32543866,Male,23836519482,"Pringgama,  Yogyakarta"
+655,Sofyan Mustofa,"Yaaqowiyyu,  Klaten",AQ,32543867,Male,23836519483,"Yaaqowiyyu,  Klaten"
+656,Nanang Susetyo Hanasworo,"Waladun Sholihun, Gunung Kidul",AQ,32543868,Male,23836519484,"Waladun Sholihun, Gunung Kidul"
+657,Komar,"Cungkuk, Jogja ",AQ,32543869,Male,23836519485,"Cungkuk, Jogja "
+658,Catur,"Senopati Archery , Sukoharjo",AR,32543870,Male,23836519486,"Senopati Archery , Sukoharjo"
+659,Aris Sutarto,Kawedanan Kaprajuritan 3 Karaton Yogyakarta,AR,32543871,Male,23836519487,Kawedanan Kaprajuritan 3 Karaton Yogyakarta
+660,Sutigno,Jmg Pacitan,AR,32543872,Male,23836519488,Jmg Pacitan
+661,Kadi,"Jaluwasi,  Jogja",AR,32543873,Male,23836519489,"Jaluwasi,  Jogja"
+662,Ahmad Colil,"Jkobar, Surakarta",AR,32543874,Male,23836519490,"Jkobar, Surakarta"
+663,Rustamaji,Pashupatastra Magetan,AR,32543875,Male,23836519491,Pashupatastra Magetan
+664,Ayah,Gading Archery. Klaten,AR,32543876,Male,23836519492,Gading Archery. Klaten
+665,Danang,"Jamasi, Bantul",AR,32543877,Male,23836519493,"Jamasi, Bantul"
+666,Yosi Bayumurti,"Pringgama,  Yogyakarta",AR,32543878,Male,23836519494,"Pringgama,  Yogyakarta"
+667,Herbudi Desaryanto,Perpatri Nusantara Jaya - Jogja,AR,32543879,Male,23836519495,Perpatri Nusantara Jaya - Jogja
+668,Riyadi,"Yaaqowiyyu,  Klaten",AR,32543880,Male,23836519496,"Yaaqowiyyu,  Klaten"
+669,Eko Jiwo,"Cungkuk, Jogja ",AR,32543881,Male,23836519497,"Cungkuk, Jogja "
+670,Herimawan Septiyanto,Satria Djowitan Yogyakarta,AR,32543882,Male,23836519498,Satria Djowitan Yogyakarta
+671,Ardiyan Adhi Prabowo,"Jtmg, Temanggung",AR,32543883,Male,23836519499,"Jtmg, Temanggung"
+672,Hendro Budiarto,"Estoe Midjil, Jogja ",AR,32543884,Male,23836519500,"Estoe Midjil, Jogja "
+673,Holeh,Gading Archery. Klaten,AS,32543885,Male,23836519501,Gading Archery. Klaten
+674,Bagus Ananda,"Marto, Jogja",AS,32543886,Male,23836519502,"Marto, Jogja"
+675,Seno,"Jaluwasi,  Jogja",AS,32543887,Male,23836519503,"Jaluwasi,  Jogja"
+676,Sarwono,"Senopati Archery , Sukoharjo",AS,32543888,Male,23836519504,"Senopati Archery , Sukoharjo"
+677,Arief,"Al Jawi, Wonogiri",AS,32543889,Male,23836519505,"Al Jawi, Wonogiri"
+678,Samsul Arifin,Kawedanan Kaprajuritan 3 Karaton Yogyakarta,AS,32543890,Male,23836519506,Kawedanan Kaprajuritan 3 Karaton Yogyakarta
+679,Slamet Widodo,"Senopati Archery , Sukoharjo",AS,32543891,Male,23836519507,"Senopati Archery , Sukoharjo"
+680,Chandra Bagus,Jmg Pacitan,AS,32543892,Male,23836519508,Jmg Pacitan
+681,Muslih,Pakasto Klaten,AS,32543893,Male,23836519509,Pakasto Klaten
+682,Suparno,"Pagerwojo, Jogja ",AS,32543894,Male,23836519510,"Pagerwojo, Jogja "
+683,Tedy,Pashupatastra Magetan,AS,32543895,Male,23836519511,Pashupatastra Magetan
+684,Slamet Widodo,"Yaaqowiyyu,  Klaten",AS,32543896,Male,23836519512,"Yaaqowiyyu,  Klaten"
+685,Wuryadi,"Cungkuk, Jogja ",AS,32543897,Male,23836519513,"Cungkuk, Jogja "
+686,Kristadi,Satria Djowitan Yogyakarta,AS,32543898,Male,23836519514,Satria Djowitan Yogyakarta
+687,Imam Marjuki,"Joyo Pangrawit , Wonogiri",AS,32543899,Male,23836519515,"Joyo Pangrawit , Wonogiri"
+688,Wito,Pashupatastra Magetan,AT,32543900,Male,23836519516,Pashupatastra Magetan
+689,Bang Kembang,"Senopati Archery , Sukoharjo",AT,32543901,Male,23836519517,"Senopati Archery , Sukoharjo"
+690,Syiwandana Basukiyana,Kawedanan Kaprajuritan 3 Karaton Yogyakarta,AT,32543902,Male,23836519518,Kawedanan Kaprajuritan 3 Karaton Yogyakarta
+691,Hendik,Jmg Pacitan,AT,32543903,Male,23836519519,Jmg Pacitan
+692,Banteng Purwanto,"Pametri Projo, Gunungkidul",AT,32543904,Male,23836519520,"Pametri Projo, Gunungkidul"
+693,Dibya,Pakasto Klaten,AT,32543905,Male,23836519521,Pakasto Klaten
+694,Aditya,"Cungkuk, Jogja ",AT,32543906,Male,23836519522,"Cungkuk, Jogja "
+695,Suhartoyo,"Batara Archery, Jogja",AT,32543907,Male,23836519523,"Batara Archery, Jogja"
+696,Gunadhi,"Joyo Pangrawit , Wonogiri",AT,32543908,Male,23836519524,"Joyo Pangrawit , Wonogiri"
+697,Tri Yes,"Loh Jinawi, Jogja ",AT,32543909,Male,23836519525,"Loh Jinawi, Jogja "
+698,Iwan,"Sambernyowo, Wonogiri ",AT,32543910,Male,23836519526,"Sambernyowo, Wonogiri "
+699,Dika Anggit Pratama,"Sipas Sriwedari, Solo",AT,32543911,Male,23836519527,"Sipas Sriwedari, Solo"
+700,Khoiron Hadi,"Pasopati,  Pasuruan",AT,32543912,Male,23836519528,"Pasopati,  Pasuruan"
+701,Topa,"Trajumas , Kulonprogo",AT,32543913,Male,23836519529,"Trajumas , Kulonprogo"
+702,Ridwan,Gading Archery. Klaten,AT,32543914,Male,23836519530,Gading Archery. Klaten
+703,Fargun,Gading Archery. Klaten,AU,32543915,Male,23836519531,Gading Archery. Klaten
+704,Bambang,"Sambernyowo, Wonogiri ",AU,32543916,Male,23836519532,"Sambernyowo, Wonogiri "
+705,Nurul Slamet Awaludin,Kawedanan Kaprajuritan 3 Karaton Yogyakarta,AU,32543917,Male,23836519533,Kawedanan Kaprajuritan 3 Karaton Yogyakarta
+706,Anis,Jmg Pacitan,AU,32543918,Male,23836519534,Jmg Pacitan
+707,Sabian Reza,"Senopati Archery , Sukoharjo",AU,32543919,Male,23836519535,"Senopati Archery , Sukoharjo"
+708,Yitno,Pashupatastra Magetan,AU,32543920,Male,23836519536,Pashupatastra Magetan
+709,Haris Demang,"Cungkuk, Jogja ",AU,32543921,Male,23836519537,"Cungkuk, Jogja "
+710,Jono,Satria Djowitan Yogyakarta,AU,32543922,Male,23836519538,Satria Djowitan Yogyakarta
+711,Purwadi,Pakasto Klaten,AU,32543923,Male,23836519539,Pakasto Klaten
+712,David Andi,"Joyo Pangrawit , Wonogiri",AU,32543924,Male,23836519540,"Joyo Pangrawit , Wonogiri"
+713,Lazuardi Bakhitsbari,"Loh Jinawi, Jogja ",AU,32543925,Male,23836519541,"Loh Jinawi, Jogja "
+714,Budi,"Sambernyowo, Wonogiri ",AU,32543926,Male,23836519542,"Sambernyowo, Wonogiri "
+715,Andr,"Kali Yuga, Diy",AU,32543927,Male,23836519543,"Kali Yuga, Diy"
+716,Chitmatul Huda,"Patria, Blitar",AU,32543928,Male,23836519544,"Patria, Blitar"
+717,Faizal Makhrus,"Pringgama,  Yogyakarta",AU,32543929,Male,23836519545,"Pringgama,  Yogyakarta"
+718,Nando,"Pringgama,  Yogyakarta",AV,32543930,Male,23836519546,"Pringgama,  Yogyakarta"
+719,Wahyu Nugroho,Kawedanan Kaprajuritan 3 Karaton Yogyakarta,AV,32543931,Male,23836519547,Kawedanan Kaprajuritan 3 Karaton Yogyakarta
+720,Reang Sugiono,Jmg Pacitan,AV,32543932,Male,23836519548,Jmg Pacitan
+721,Warni,Pashupatastra Magetan,AV,32543933,Male,23836519549,Pashupatastra Magetan
+722,Otonk,Gading Archery. Klaten,AV,32543934,Male,23836519550,Gading Archery. Klaten
+723,Iqbal Saqu,"Cungkuk, Jogja ",AV,32543935,Male,23836519551,"Cungkuk, Jogja "
+724,Guntur,Pakasto Klaten,AV,32543936,Male,23836519552,Pakasto Klaten
+725,Wardiyoko,"Joyo Pangrawit , Wonogiri",AV,32543937,Male,23836519553,"Joyo Pangrawit , Wonogiri"
+726,Sunartana,"Loh Jinawi, Jogja ",AV,32543938,Male,23836519554,"Loh Jinawi, Jogja "
+727,Doso,"Sambernyowo, Wonogiri ",AV,32543939,Male,23836519555,"Sambernyowo, Wonogiri "
+728,Riyadi Sujianto,"Sipas Sriwedari, Solo",AV,32543940,Male,23836519556,"Sipas Sriwedari, Solo"
+729,Kistadi,"Trajumas , Kulonprogo",AV,32543941,Male,23836519557,"Trajumas , Kulonprogo"
+730,Muhardi Aldi,"Waladun Sholihun, Gunung Kidul",AV,32543942,Male,23836519558,"Waladun Sholihun, Gunung Kidul"
+731,Paryanto,"Yaaqowiyyu,  Klaten",AV,32543943,Male,23836519559,"Yaaqowiyyu,  Klaten"
+732,Supandi,"Surogeni, Jogja",AV,32543944,Male,23836519560,"Surogeni, Jogja"
+733,Fx Edy Prajoko,Kawedanan Kaprajuritan 3 Karaton Yogyakarta,AW,32543945,Male,23836519561,Kawedanan Kaprajuritan 3 Karaton Yogyakarta
+734,Samsu R,Pashupatastra Magetan,AW,32543946,Male,23836519562,Pashupatastra Magetan
+735,Cripink Widianto,Gading Archery. Klaten,AW,32543947,Male,23836519563,Gading Archery. Klaten
+736,Tonang Juniarta,Jemparingan Lareangon  Klaten ,AW,32543948,Male,23836519564,Jemparingan Lareangon  Klaten 
+737,Joko Tingkir,"Cungkuk, Jogja ",AW,32543949,Male,23836519565,"Cungkuk, Jogja "
+738,Firman Hamidi,"Loh Jinawi, Jogja ",AW,32543950,Male,23836519566,"Loh Jinawi, Jogja "
+739,Abdurrahman,"Sambernyowo, Wonogiri ",AW,32543951,Male,23836519567,"Sambernyowo, Wonogiri "
+740,S Hanindyo Putra,"Sipas Sriwedari, Solo",AW,32543952,Male,23836519568,"Sipas Sriwedari, Solo"
+741,Kang Yono,"Trajumas , Kulonprogo",AW,32543953,Male,23836519569,"Trajumas , Kulonprogo"
+742,Hermawan,Satria Djowitan Yogyakarta,AW,32543954,Male,23836519570,Satria Djowitan Yogyakarta
+743,Arya Putra,"Jemparingan Prambanan,  Jogja",AW,32543955,Male,23836519571,"Jemparingan Prambanan,  Jogja"
+744,Hermawan Winarto,"Jtmg, Temanggung",AW,32543956,Male,23836519572,"Jtmg, Temanggung"
+745,Hidayat,Perpani Jogja,AW,32543957,Male,23836519573,Perpani Jogja
+746,Muhammad Nafi,"Estoe Midjil, Jogja ",AW,32543958,Male,23836519574,"Estoe Midjil, Jogja "
+747,Herlan,Pakasto Klaten,AW,32543959,Male,23836519575,Pakasto Klaten
+748,Jaler,Pakasto Klaten,AX,32543960,Male,23836519576,Pakasto Klaten
+749,Teguh,Pashupatastra Magetan,AX,32543961,Male,23836519577,Pashupatastra Magetan
+750,Antok,Gading Archery. Klaten,AX,32543962,Male,23836519578,Gading Archery. Klaten
+751,Tri Yunianto,Kawedanan Kaprajuritan 3 Karaton Yogyakarta,AX,32543963,Male,23836519579,Kawedanan Kaprajuritan 3 Karaton Yogyakarta
+752,Nurdiyanto,Pajero Klaten,AX,32543964,Male,23836519580,Pajero Klaten
+753,Ridho,"Sambernyowo, Wonogiri ",AX,32543965,Male,23836519581,"Sambernyowo, Wonogiri "
+754,Widi Hartono,"Pagerwojo, Jogja ",AX,32543966,Male,23836519582,"Pagerwojo, Jogja "
+755,Abdul Rozaq,"Sipas Sriwedari, Solo",AX,32543967,Male,23836519583,"Sipas Sriwedari, Solo"
+756,Damar,"Trajumas , Kulonprogo",AX,32543968,Male,23836519584,"Trajumas , Kulonprogo"
+757,Joko Lelono,Perpani Jogja,AX,32543969,Male,23836519585,Perpani Jogja
+758,Peristio Budi Tjahjono,Perpatri Nusantara Jaya Kab. Kediri,AX,32543970,Male,23836519586,Perpatri Nusantara Jaya Kab. Kediri
+759,Arbani,"Joyo Pangrawit , Wonogiri",AX,32543971,Male,23836519587,"Joyo Pangrawit , Wonogiri"
+760,Lanjar Fitriadi,Jemparingan Lareangon  Klaten ,AX,32543972,Male,23836519588,Jemparingan Lareangon  Klaten 
+761,Gandewa Barack Ramadhana,"Jemparingan Prambanan,  Jogja",AX,32543973,Male,23836519589,"Jemparingan Prambanan,  Jogja"
+762,Taufik Hidayat,"Loh Jinawi, Jogja ",AX,32543974,Male,23836519590,"Loh Jinawi, Jogja "
+763,Fathuz,"Loh Jinawi, Jogja ",AY,32543975,Male,23836519591,"Loh Jinawi, Jogja "
+764,Aryanto,Kawedanan Kaprajuritan 2 Karaton Yogyakarta,AY,32543976,Male,23836519592,Kawedanan Kaprajuritan 2 Karaton Yogyakarta
+765,Sugeng,Pashupatastra Magetan,AY,32543977,Male,23836519593,Pashupatastra Magetan
+766,Wiyono Agung,Gading Archery. Klaten,AY,32543978,Male,23836519594,Gading Archery. Klaten
+767,Erwin,"Jatra, Jogja",AY,32543979,Male,23836519595,"Jatra, Jogja"
+768,Yosi Bayun Mutaqin,"Surya Putra Jemparing, Jogja ",AY,32543980,Male,23836519596,"Surya Putra Jemparing, Jogja "
+769,Dwi Cahyo Saputro,"Sipas Sriwedari, Solo",AY,32543981,Male,23836519597,"Sipas Sriwedari, Solo"
+770,Qiyas,"Trajumas , Kulonprogo",AY,32543982,Male,23836519598,"Trajumas , Kulonprogo"
+771,Riyanto,Jemparingan Lareangon  Klaten ,AY,32543983,Male,23836519599,Jemparingan Lareangon  Klaten 
+772,Muhammad Naafi Ramdhani,"Jemparingan Prambanan,  Jogja",AY,32543984,Male,23836519600,"Jemparingan Prambanan,  Jogja"
+773,Sabam Parsaroan Hutagalung,Perpani Jogja,AY,32543985,Male,23836519601,Perpani Jogja
+774,Fardan,"Sambernyowo, Wonogiri ",AY,32543986,Male,23836519602,"Sambernyowo, Wonogiri "
+775,Hendra S Leksana,Perpatri Sidoarjo,AY,32543987,Male,23836519603,Perpatri Sidoarjo
+776,Kang Bayu,Tangger Jemparingan,AY,32543988,Male,23836519604,Tangger Jemparingan
+777,Sugiyarto,Wonopati,AY,32543989,Male,23836519605,Wonopati
+778,Kunto,"Sambernyowo, Wonogiri ",AZ,32543990,Male,23836519606,"Sambernyowo, Wonogiri "
+779,Karyana,Kawedanan Kaprajuritan 2 Karaton Yogyakarta,AZ,32543991,Male,23836519607,Kawedanan Kaprajuritan 2 Karaton Yogyakarta
+780,Ribut,Pashupatastra Magetan,AZ,32543992,Male,23836519608,Pashupatastra Magetan
+781,Titri,Gading Archery. Klaten,AZ,32543993,Male,23836519609,Gading Archery. Klaten
+782,Pardiman,Jemparingan Lareangon  Klaten ,AZ,32543994,Male,23836519610,Jemparingan Lareangon  Klaten 
+783,W K Wibowo,"Sipas Sriwedari, Solo",AZ,32543995,Male,23836519611,"Sipas Sriwedari, Solo"
+784,Sugeng Ashari K,"Wedhi Ayu, Banyumas",AZ,32543996,Male,23836519612,"Wedhi Ayu, Banyumas"
+785,Agung Istu,"Jemparingan Prambanan,  Jogja",AZ,32543997,Male,23836519613,"Jemparingan Prambanan,  Jogja"
+786,Nedi Parmanto,Perpani Jogja,AZ,32543998,Male,23836519614,Perpani Jogja
+787,Muljono,Pesantenan Pati,AZ,32543999,Male,23836519615,Pesantenan Pati
+788,M Rusli,Perpatri Sidoarjo,AZ,32544000,Male,23836519616,Perpatri Sidoarjo
+789,Ahmad Yanuanto,"Pasopati,  Pasuruan",AZ,32544001,Male,23836519617,"Pasopati,  Pasuruan"
+790,Arif Suntoro,Tangger Jemparingan,AZ,32544002,Male,23836519618,Tangger Jemparingan
+791,A'An Widyantoko,Wonopati,AZ,32544003,Male,23836519619,Wonopati
+792,Wasir Widodo,"Trajumas , Kulonprogo",AZ,32544004,Male,23836519620,"Trajumas , Kulonprogo"
+793,Sarwiji,"Trajumas , Kulonprogo",BA,32544005,Male,23836519621,"Trajumas , Kulonprogo"
+794,Supriyadi,"Wedhi Ayu, Banyumas",BA,32544006,Male,23836519622,"Wedhi Ayu, Banyumas"
+795,Parjiman,Kawedanan Kaprajuritan 2 Karaton Yogyakarta,BA,32544007,Male,23836519623,Kawedanan Kaprajuritan 2 Karaton Yogyakarta
+796,Pendik,Pashupatastra Magetan,BA,32544008,Male,23836519624,Pashupatastra Magetan
+797,Winarno,Gading Archery. Klaten,BA,32544009,Male,23836519625,Gading Archery. Klaten
+798,Ananda Dyaksanala Rasendriya,"Jemparingan Prambanan,  Jogja",BA,32544010,Male,23836519626,"Jemparingan Prambanan,  Jogja"
+799,Machrudi,Perpani Jogja,BA,32544011,Male,23836519627,Perpani Jogja
+800,Sukirman,Perpatri Sidoarjo,BA,32544012,Male,23836519628,Perpatri Sidoarjo
+801,Sukarno,Jemparingan Lareangon  Klaten ,BA,32544013,Male,23836519629,Jemparingan Lareangon  Klaten 
+802,Mulia Wirawan,Tangger Jemparingan,BA,32544014,Male,23836519630,Tangger Jemparingan
+803,Waspodo,Wonopati,BA,32544015,Male,23836519631,Wonopati
+804,Budiarto,"Sambisena, Yogyakarta",BA,32544016,Male,23836519632,"Sambisena, Yogyakarta"
+805,Andri,"Kridho Senopati,  Klaten",BA,32544017,Male,23836519633,"Kridho Senopati,  Klaten"
+806,Sarijan,"Tirto Kembaran, Jogja",BA,32544018,Male,23836519634,"Tirto Kembaran, Jogja"
+807,Fariz Raihan,"Dwijodiningrat, Bantul",BA,32544019,Male,23836519635,"Dwijodiningrat, Bantul"
+808,Yusuf Dzaky Setiawan,Jemparingan Lareangon  Klaten ,BB,32544020,Male,23836519636,Jemparingan Lareangon  Klaten 
+809,Ananda Javas Aryasatya,"Jemparingan Prambanan,  Jogja",BB,32544021,Male,23836519637,"Jemparingan Prambanan,  Jogja"
+810,Daniel Sagala,Paseduluran Gondewa Salakanagara,BB,32544022,Male,23836519638,Paseduluran Gondewa Salakanagara
+811,Heri Sulistyawan,Perpani Jogja,BB,32544023,Male,23836519639,Perpani Jogja
+812,Moh Nadhif Khusaini,Perpatri Sidoarjo,BB,32544024,Male,23836519640,Perpatri Sidoarjo
+813,Didin Kamsudin,Jemparingan Cirebon,BB,32544025,Male,23836519641,Jemparingan Cirebon
+814,Saryono,Royal Brongto Yogyakarta,BB,32544026,Male,23836519642,Royal Brongto Yogyakarta
+815,Rubiyo,"Rospring, Sukoharjo",BB,32544027,Male,23836519643,"Rospring, Sukoharjo"
+816,Sahid Nugroho,"Dwijodiningrat, Bantul",BB,32544028,Male,23836519644,"Dwijodiningrat, Bantul"
+817,Wiyono As,"Pametri Projo, Gunungkidul",BB,32544029,Male,23836519645,"Pametri Projo, Gunungkidul"
+818,Nurul Mashudin,Bca Surabaya,BB,32544030,Male,23836519646,Bca Surabaya
+819,Purnawan Widodo,"Alap - Alap Slarong , Yogyakata",BB,32544031,Male,23836519647,"Alap - Alap Slarong , Yogyakata"
+820,Dimas Hargojati,Kawedanan Kaprajuritan 2 Karaton Yogyakarta,BB,32544032,Male,23836519648,Kawedanan Kaprajuritan 2 Karaton Yogyakarta
+821,Kuntjoro,"Sipas Sriwedari, Solo",BB,32544033,Male,23836519649,"Sipas Sriwedari, Solo"
+822,Hery,Gading Archery. Klaten,BB,32544034,Male,23836519650,Gading Archery. Klaten
+823,Rasyidin,Perpatri Sidoarjo,BC,32544035,Male,23836519651,Perpatri Sidoarjo
+824,Wahyu Ari,Bodronoyo Jogja,BC,32544036,Male,23836519652,Bodronoyo Jogja
+825,Fajar Alimana,Jemparingan Cirebon,BC,32544037,Male,23836519653,Jemparingan Cirebon
+826,Yohanes,Pajero Klaten,BC,32544038,Male,23836519654,Pajero Klaten
+827,Darmanto,"Mangesti, Sleman",BC,32544039,Male,23836519655,"Mangesti, Sleman"
+828,Asnawi,"Surya Bhirawa, Klaten",BC,32544040,Male,23836519656,"Surya Bhirawa, Klaten"
+829,Leo Wisnu,Royal Brongto Yogyakarta,BC,32544041,Male,23836519657,Royal Brongto Yogyakarta
+830,Bayu Bk,"Gajah Kemuning, Bantul",BC,32544042,Male,23836519658,"Gajah Kemuning, Bantul"
+831,Mahfut,"Rospring, Sukoharjo",BC,32544043,Male,23836519659,"Rospring, Sukoharjo"
+832,Habibie,"Giri Mandala ,  Wonogiri",BC,32544044,Male,23836519660,"Giri Mandala ,  Wonogiri"
+833,Kikis Rizkian S,"L P G, Surabaya",BC,32544045,Male,23836519661,"L P G, Surabaya"
+834,Muhammad Al Murajab,Kawedanan Kaprajuritan 1 Karaton Yogyakarta,BC,32544046,Male,23836519662,Kawedanan Kaprajuritan 1 Karaton Yogyakarta
+835,Ilyam,"Gajah Kemuning, Bantul",BC,32544047,Male,23836519663,"Gajah Kemuning, Bantul"
+836,Bima Dewanta Fadhlurrahman,Tangger Jemparingan,BC,32544048,Male,23836519664,Tangger Jemparingan
+837,Bony Andrian,Ulin Sijimat Perpatri Kota Bandung,BC,32544049,Male,23836519665,Ulin Sijimat Perpatri Kota Bandung
+838,Djati Saptowibowo W,"Wiratama
+",BD,32544050,Male,23836519666,"Wiratama
+"
+839,Edy Cahyono,Wonopati,BD,32544051,Male,23836519667,Wonopati
+840,Asep Nungro S,Manunggal Jati Yogyakarta,BD,32544052,Male,23836519668,Manunggal Jati Yogyakarta
+841,W Kurnia Antoni," Walet Basura, Jawa Barat",BD,32544053,Male,23836519669," Walet Basura, Jawa Barat"
+842,Fuat Nurrohman,"Wedhi Ayu, Banyumas",BD,32544054,Male,23836519670,"Wedhi Ayu, Banyumas"
+843,Suparjo,"Sambisena, Yogyakarta",BD,32544055,Male,23836519671,"Sambisena, Yogyakarta"
+844,Rendi Dimas S,Jemparingan Lareangon  Klaten ,BD,32544056,Male,23836519672,Jemparingan Lareangon  Klaten 
+845,Satria Arif Jatmiko,"Sipas Sriwedari, Solo",BD,32544057,Male,23836519673,"Sipas Sriwedari, Solo"
+846,Suwaryono,"Wedhi Ayu, Banyumas",BD,32544058,Male,23836519674,"Wedhi Ayu, Banyumas"
+847,Heri Kusdarmaji,Kawedanan Kaprajuritan 1 Karaton Yogyakarta,BD,32544059,Male,23836519675,Kawedanan Kaprajuritan 1 Karaton Yogyakarta
+848,Anas,Gading Archery. Klaten,BD,32544060,Male,23836519676,Gading Archery. Klaten
+849,Rozi Ismail,Saranghaeyo Archery Yogyakarta,BD,32544061,Male,23836519677,Saranghaeyo Archery Yogyakarta
+850,Arif,Pajero Klaten,BD,32544062,Male,23836519678,Pajero Klaten
+851,Sukatno,"Surya Bhirawa, Klaten",BD,32544063,Male,23836519679,"Surya Bhirawa, Klaten"
+852,Aris Ariadi,"Mangesti, Sleman",BD,32544064,Male,23836519680,"Mangesti, Sleman"

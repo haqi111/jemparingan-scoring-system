@@ -1,0 +1,353 @@
+number_participant,name,club,target_Name,nik,gender,phone,address
+1,Laila,Bodronoyo Jogja,A,32543213,Female,1234567812,Bodronoyo Jogja
+2,Siti Sumiyati,"Walet Basura Pajajaran, Jawa Barat",A,32543214,Female,1234567890,"Walet Basura Pajajaran, Jawa Barat"
+3,Fithria Kusumastuti,Royal Brongto Yogyakarta,A,32543215,Female,9876543210,Royal Brongto Yogyakarta
+4,Walidah,Perpani Jogja,A,32543216,Female,5790321680,Perpani Jogja
+5,Bulan Arti Rizki,Royal Brongto Yogyakarta,A,32543217,Female,8123456789,Royal Brongto Yogyakarta
+6,Sri Wahyuningsih,"Giri Mandala ,  Wonogiri",A,32543218,Female,8123456790,"Giri Mandala ,  Wonogiri"
+7,Sri Muryani,Manunggal Jati Yogyakarta,A,32543219,Female,1234567890,Manunggal Jati Yogyakarta
+8,Titis Anggih Pusfitasari,"L P G, Surabaya",A,32543220,Female,9876543210,"L P G, Surabaya"
+9,Sri Handayani,"Pjkm, Klaten",A,32543221,Female,5790321680,"Pjkm, Klaten"
+10,Khaansa Khairunnisa,Arah  Archery Unair Surabaya,A,32543222,Female,8123456789,Arah  Archery Unair Surabaya
+11,Saharani Agustin,Jemparingan Cirebon,A,32543223,Female,8123456790,Jemparingan Cirebon
+12,Eni W,Area 89,A,32543224,Female,1234567890,Area 89
+13,Lila Sulastri,Bwt,A,32543225,Female,9876543210,Bwt
+14,Nuriel Cholifatin,"Laskar Panji Suryanegara, Malang",A,32543226,Female,5790321680,"Laskar Panji Suryanegara, Malang"
+15,Dewi Ratnawati,"Dwijodiningrat, Bantul",A,32543227,Female,8123456789,"Dwijodiningrat, Bantul"
+16,Yayuk Agustina,Danurwendho. Jogjakarta,A,32543228,Female,8123456790,Danurwendho. Jogjakarta
+17,Sadiah,"Walet Basura Pajajaran, Jawa Barat",B,32543229,Female,1234567890,"Walet Basura Pajajaran, Jawa Barat"
+18,Maimunah,Perpani Jogja,B,32543230,Female,9876543210,Perpani Jogja
+19,Dwi Handayani,"Rospring, Sukoharjo",B,32543231,Female,5790321680,"Rospring, Sukoharjo"
+20,Anik Wuryanti,Royal Brongto Yogyakarta,B,32543232,Female,8123456789,Royal Brongto Yogyakarta
+21,Rachmanti Ika,"Surogeni, Jogja",B,32543233,Female,7606289988,"Surogeni, Jogja"
+22,Eka Lestari,Manunggal Jati Yogyakarta,B,32543234,Female,7732105718,Manunggal Jati Yogyakarta
+23,Sri Hartatik,"Giri Mandala ,  Wonogiri",B,32543235,Female,7857921448,"Giri Mandala ,  Wonogiri"
+24,Novi A,Area 89,B,32543236,Female,7983737178,Area 89
+25,Dyah Vivit,"Kridho Senopati,  Klaten",B,32543237,Female,8109552908,"Kridho Senopati,  Klaten"
+26,Nayla Yulia Rachma,Jemparingan Cirebon,B,32543238,Female,8235368638,Jemparingan Cirebon
+27,Sihmiyatun,"Surya Bhirawa, Klaten",B,32543239,Female,8361184368,"Surya Bhirawa, Klaten"
+28,Marvelia Penta Surya,Arah  Archery Unair Surabaya,B,32543240,Female,8487000098,Arah  Archery Unair Surabaya
+29,Nikmal Azzhany Soffiarthana,"L P G, Surabaya",B,32543241,Female,8612815828,"L P G, Surabaya"
+30,Dheny Oktaria,"Alap - Alap Slarong , Yogyakata",B,32543242,Female,8738631558,"Alap - Alap Slarong , Yogyakata"
+31,Rydnawati Wulandari,Bca Surabaya,B,32543243,Female,8864447288,Bca Surabaya
+32,Untari,"Pametri Projo, Gunungkidul",B,32543244,Female,8990263018,"Pametri Projo, Gunungkidul"
+33,Anik,"Hanacara, Jogja",C,32543245,Female,9116078748,"Hanacara, Jogja"
+34,Luki Kurniawati,Manunggal Jati Yogyakarta,C,32543246,Female,9241894478,Manunggal Jati Yogyakarta
+35,Noviyati,Jemparingan Cirebon,C,32543247,Female,9367710208,Jemparingan Cirebon
+36,Kirana,Area 89,C,32543248,Female,9493525938,Area 89
+37,Anik Purwanti,"Giri Mandala ,  Wonogiri",C,32543249,Female,9619341668,"Giri Mandala ,  Wonogiri"
+38,Alifia Dhia Rahmadhani,Arah  Archery Unair Surabaya,C,32543250,Female,9745157398,Arah  Archery Unair Surabaya
+39,Siyati S.Pd.Jas,Bwt,C,32543251,Female,9870973128,Bwt
+40,Khusnul Khatimah,"Pjkm, Klaten",C,32543252,Female,9996788858,"Pjkm, Klaten"
+41,Pay,Agung Sedayu Jogja,C,32543253,Female,10122604588,Agung Sedayu Jogja
+42,Heni Widyastuti,"Kridha Warastra, Bantul",C,32543254,Female,10248420318,"Kridha Warastra, Bantul"
+43,Ngingis Tristiani,"Walet Basura Pajajaran, Jawa Barat",C,32543255,Female,10374236048,"Walet Basura Pajajaran, Jawa Barat"
+44,Naila Khanza,"Jemparingan Tasikmalaya, Jawa Barat",C,32543256,Female,10500051778,"Jemparingan Tasikmalaya, Jawa Barat"
+45,Vicky Erniputri Prasetyaningtyas,"Laskar Panji Suryanegara, Malang",C,32543257,Female,10625867508,"Laskar Panji Suryanegara, Malang"
+46,Intarti,Kridobusoro Klaten,C,32543258,Female,10751683238,Kridobusoro Klaten
+47,Fauziati,"Melati Langit, Sleman",C,32543259,Female,10877498968,"Melati Langit, Sleman"
+48,Sri Koer,"Jcc, Sleman",C,32543260,Female,11003314698,"Jcc, Sleman"
+49,Winarti,Danurwendho. Jogjakarta,D,32543261,Female,11129130427,Danurwendho. Jogjakarta
+50,Maria Muji Setyowati,Bwt,D,32543262,Female,11254946157,Bwt
+51,Mutia,Agung Sedayu Jogja,D,32543263,Female,11380761887,Agung Sedayu Jogja
+52,Aning,"Kensinau, Kulon Progo",D,32543264,Female,11506577617,"Kensinau, Kulon Progo"
+53,Eka Y,Area 89,D,32543265,Female,11632393347,Area 89
+54,Maulan Muncariana,"Djeng Mirah, Surabaya",D,32543266,Female,11758209077,"Djeng Mirah, Surabaya"
+55,Titik Setyaningsih,"Giri Mandala ,  Wonogiri",D,32543267,Female,11884024807,"Giri Mandala ,  Wonogiri"
+56,Endang Suminarti,"Kridha Warastra, Bantul",D,32543268,Female,12009840537,"Kridha Warastra, Bantul"
+57,Indah Kazzet,"Jemparingan Tasikmalaya, Jawa Barat",D,32543269,Female,12135656267,"Jemparingan Tasikmalaya, Jawa Barat"
+58,Siti Iin Kuraesin,"Walet Basura Pajajaran, Jawa Barat",D,32543270,Female,12261471997,"Walet Basura Pajajaran, Jawa Barat"
+59,Ambarwati,"Gendewo Mas,  Banyumas",D,32543271,Female,12387287727,"Gendewo Mas,  Banyumas"
+60,Chrisnawati,"Paguyuban Wirotomo , Jogja",D,32543272,Female,12513103457,"Paguyuban Wirotomo , Jogja"
+61,Siti,"Paguyuban Hizbul Wathan, Sukoharjo",D,32543273,Female,12638919187,"Paguyuban Hizbul Wathan, Sukoharjo"
+62,Wahyu Winanti,"Pratjimahastra, Boyolali",D,32543274,Female,12764734917,"Pratjimahastra, Boyolali"
+63,Eni,"Wisanggeni, Bantul",D,32543275,Female,12890550647,"Wisanggeni, Bantul"
+64,Kasuma Wardani,"Adiwinoto,  Yogyakarta",D,32543276,Female,13016366377,"Adiwinoto,  Yogyakarta"
+65,Dewi,"Giri Mandala ,  Wonogiri",E,32543277,Female,13142182107,"Giri Mandala ,  Wonogiri"
+66,Qissi Aulia Izzatunnisa,Bwt,E,32543278,Female,13267997837,Bwt
+67,Reni Rochaeni,"Walet Basura, Jawa Barat",E,32543279,Female,13393813567,"Walet Basura, Jawa Barat"
+68,Libby Athaya Widagdo Sabariman,"Laskar Panji Suryanegara, Malang",E,32543280,Female,13519629297,"Laskar Panji Suryanegara, Malang"
+69,Endri Budi Rahayu,Djemparingan  Mojokerto,E,32543281,Female,13645445027,Djemparingan  Mojokerto
+70,Roshinta Rahayu,"Jcc, Sleman",E,32543282,Female,13771260757,"Jcc, Sleman"
+71,Dede Evita,"Jemparingan Tasikmalaya, Jawa Barat",E,32543283,Female,13897076487,"Jemparingan Tasikmalaya, Jawa Barat"
+72,Atun,"Wisanggeni, Bantul",E,32543284,Female,14022892217,"Wisanggeni, Bantul"
+73,Lu Lu Atul Choiriyah,"Adiwinoto,  Yogyakarta",E,32543285,Female,14148707947,"Adiwinoto,  Yogyakarta"
+74,Chatarina Sri Sudarmi,"Aji Saka, Yogyakarta",E,32543286,Female,14274523677,"Aji Saka, Yogyakarta"
+75,Anita Purnawiyati,"Wedhi Ayu, Banyumas",E,32543287,Female,14400339407,"Wedhi Ayu, Banyumas"
+76,Yani Fitriyani,"Cakra Wulung, Tasikmalaya",E,32543288,Female,14526155137,"Cakra Wulung, Tasikmalaya"
+77,Rurie Atmini Retno,"Sambisena, Yogyakarta",E,32543289,Female,14651970867,"Sambisena, Yogyakarta"
+78,Ida Wahyuni,Perpatri Nusantara Jaya - Jogja,E,32543290,Female,14777786597,Perpatri Nusantara Jaya - Jogja
+79,Alifah Rahmawati,"Batara Archery, Jogja",E,32543291,Female,14903602327,"Batara Archery, Jogja"
+80,Tety Hartatik,"Pringgama,  Yogyakarta",E,32543292,Female,15029418057,"Pringgama,  Yogyakarta"
+81,Sopiah,"Walet Basura, Jawa Barat",F,32543293,Female,15155233787,"Walet Basura, Jawa Barat"
+82,Susi,"Gendewo Mas,  Banyumas",F,32543294,Female,15281049517,"Gendewo Mas,  Banyumas"
+83,Lesti Utami,"Wedhi Ayu, Banyumas",F,32543295,Female,15406865247,"Wedhi Ayu, Banyumas"
+84,Novie Kris,"Jemparingan Tasikmalaya, Jawa Barat",F,32543296,Female,15532680977,"Jemparingan Tasikmalaya, Jawa Barat"
+85,Sandra Ariana,"Cakra Wulung, Tasikmalaya",F,32543297,Female,15658496707,"Cakra Wulung, Tasikmalaya"
+86,Oky,"Paguyuban Wirotomo , Jogja",F,32543298,Female,15784312437,"Paguyuban Wirotomo , Jogja"
+87,Sri Suhartanti / Barbara,"Warastra Jati,  Gunungkidul",F,32543299,Female,15910128167,"Warastra Jati,  Gunungkidul"
+88,Endang Suminar,"Sambisena, Yogyakarta",F,32543300,Female,16035943897,"Sambisena, Yogyakarta"
+89,Azema Helga Moria,"Batara Archery, Jogja",F,32543301,Female,16161759627,"Batara Archery, Jogja"
+90,Amalia Sholihah,"Adiwinoto,  Yogyakarta",F,32543302,Female,16287575357,"Adiwinoto,  Yogyakarta"
+91,Desi,"Wisanggeni, Bantul",F,32543303,Female,16413391087,"Wisanggeni, Bantul"
+92,Irana Puti Maheswari,"Jamasi, Bantul",F,32543304,Female,16539206817,"Jamasi, Bantul"
+93,Zulaiqah,"Paguyuban Hizbul Wathan, Sukoharjo",F,32543305,Female,16665022547,"Paguyuban Hizbul Wathan, Sukoharjo"
+94,Crystalia Citra Angela,Perpatri Nusantara Jaya - Jogja,F,32543306,Female,16790838277,Perpatri Nusantara Jaya - Jogja
+95,Dewi ,"Sarang Aji Karsa, Kebumen",F,32543307,Female,16916654007,"Sarang Aji Karsa, Kebumen"
+96,Diani Susanti,"Brotodiningrat, Jogja",F,32543308,Female,17042469737,"Brotodiningrat, Jogja"
+97,Nurita,"Paguyuban Wirotomo , Jogja",G,32543309,Female,17168285467,"Paguyuban Wirotomo , Jogja"
+98,Endang Broto,"Pratjimahastra, Boyolali",G,32543310,Female,17294101197,"Pratjimahastra, Boyolali"
+99,Susi Rakhmawati,"Wedhi Ayu, Banyumas",G,32543311,Female,17419916927,"Wedhi Ayu, Banyumas"
+100,Sri,"Jurang Pawon, Boyolali",G,32543312,Female,17545732657,"Jurang Pawon, Boyolali"
+101,Siti Asiyah,"Raspati Jamparing,  Bandung",G,32543313,Female,17671548387,"Raspati Jamparing,  Bandung"
+102,Euis,"Gendewo Mas,  Banyumas",G,32543314,Female,17797364117,"Gendewo Mas,  Banyumas"
+103,Ernawati,"Walet Basura Pajajaran, Jawa Barat",G,32543315,Female,17923179847,"Walet Basura Pajajaran, Jawa Barat"
+104,Ina Yaturohmah,"Jemparingan Tasikmalaya, Jawa Barat",G,32543316,Female,18048995577,"Jemparingan Tasikmalaya, Jawa Barat"
+105,Haura,"Wisanggeni, Bantul",G,32543317,Female,18174811307,"Wisanggeni, Bantul"
+106,Sovia,"Jkobar, Surakarta",G,32543318,Female,18300627037,"Jkobar, Surakarta"
+107,Nurul try untari,"sastro anggoro, jogja",G,32543319,Female,18426442767,"sastro anggoro, jogja"
+108,Un,"Cungkuk, Jogja ",G,32543320,Female,18552258497,"Cungkuk, Jogja "
+109,Sumarsih,"Loh Jinawi, Jogja ",G,32543321,Female,18678074227,"Loh Jinawi, Jogja "
+110,Endang,"Paguyuban Hizbul Wathan, Sukoharjo",G,32543322,Female,18803889957,"Paguyuban Hizbul Wathan, Sukoharjo"
+111,Ramdhautari Retno Widuri,"Adiwinoto,  Yogyakarta",G,32543323,Female,18929705687,"Adiwinoto,  Yogyakarta"
+112,Yati Kusmiati,"Cakra Wulung, Tasikmalaya",G,32543324,Female,19055521417,"Cakra Wulung, Tasikmalaya"
+113,Tri Sukamiati,"Sambisena, Yogyakarta",G,32543325,Female,19181337147,"Sambisena, Yogyakarta"
+114,Ardhya Nareswari,"Pringgama,  Yogyakarta",G,32543326,Female,19307152877,"Pringgama,  Yogyakarta"
+115,Emi,"Manunggal Roso, Klaten",H,32543327,Female,19432968607,"Manunggal Roso, Klaten"
+116,Eri Kurniasih,"Wedhi Ayu, Banyumas",H,32543328,Female,19558784337,"Wedhi Ayu, Banyumas"
+117,Apong Sukaesih,"Walet Basura Pajajaran, Jawa Barat",H,32543329,Female,19684600067,"Walet Basura Pajajaran, Jawa Barat"
+118,Jati,"Surogeni, Jogja",H,32543330,Female,19810415797,"Surogeni, Jogja"
+119,Endang Retno Lisningrum,"Aji Saka, Yogyakarta",H,32543331,Female,19936231527,"Aji Saka, Yogyakarta"
+120,Isworini,Archery Club Tasikmalaya (Act) Tasikmalaya,H,32543332,Female,20062047257,Archery Club Tasikmalaya (Act) Tasikmalaya
+121,Tita Rosita,"Jemparingan Tasikmalaya, Jawa Barat",H,32543333,Female,20187862987,"Jemparingan Tasikmalaya, Jawa Barat"
+122,Shafa Aulia Jaisy Azizah,Jemparingan Panggungharjo Bantul,H,32543334,Female,20313678717,Jemparingan Panggungharjo Bantul
+123,Novi Arianti,"Gendewo Mas,  Banyumas",H,32543335,Female,20439494447,"Gendewo Mas,  Banyumas"
+124,Niswesthi Dhuhita,"Adiwinoto,  Yogyakarta",H,32543336,Female,20565310177,"Adiwinoto,  Yogyakarta"
+125,Ela Nurlaela,"Walet Basura Pajajaran, Jawa Barat",H,32543337,Female,20691125907,"Walet Basura Pajajaran, Jawa Barat"
+126,Ayuk,"Paguyuban Wirotomo , Jogja",H,32543338,Female,20816941637,"Paguyuban Wirotomo , Jogja"
+127,Arlova,BWT,H,32543339,Female,20942757367,BWT
+128,Tia,"Sambernyowo, Wonogiri ",H,32543340,Female,21068573097,"Sambernyowo, Wonogiri "
+129,Nirwasita,"Jemparingan Prambanan,  Jogja",H,32543341,Female,21194388827,"Jemparingan Prambanan,  Jogja"
+130,Titin Sugiarti Y,Perpani Jogja,H,32543342,Female,21320204557,Perpani Jogja
+131,Ajeng Kencana Ramadhani,Wonopati,H,32543343,Female,21446020287,Wonopati
+132,Suwanti,"Sambisena, Yogyakarta",H,32543344,Female,21571836017,"Sambisena, Yogyakarta"
+133,Na Illa Ika Suzana,"Jamasi, Bantul",I,32543345,Female,21697651747,"Jamasi, Bantul"
+134,Dewi Yanie,"Walet Basura Pajajaran, Jawa Barat",I,32543346,Female,21823467477,"Walet Basura Pajajaran, Jawa Barat"
+135,E Lesmana,"Cakra Wulung, Tasikmalaya",I,32543347,Female,21949283207,"Cakra Wulung, Tasikmalaya"
+136,Masiah,Tangger Jemparingan,I,32543348,Female,22075098937,Tangger Jemparingan
+137,Ika Sariningtyas,"Sambisena, Yogyakarta",I,32543349,Female,22200914667,"Sambisena, Yogyakarta"
+138,Ida Yuniati,Perpatri Nusantara Jaya - Jogja,I,32543350,Female,22326730397,Perpatri Nusantara Jaya - Jogja
+139,Sudaryanti,"Marto, Jogja",I,32543351,Female,22452546127,"Marto, Jogja"
+140,Maryati,Jemparingan Panggungharjo Bantul,I,32543352,Female,22578361857,Jemparingan Panggungharjo Bantul
+141,Jayna .Q ,"Gendewo Mas,  Banyumas",I,32543353,Female,22704177587,"Gendewo Mas,  Banyumas"
+142,Supriyatun,"Batara Archery, Jogja",I,32543354,Female,22829993317,"Batara Archery, Jogja"
+143,Ratna Medina,"Patria, Blitar",I,32543355,Female,22955809047,"Patria, Blitar"
+144,Febiana Kusuma Dewi,"Adiwinoto,  Yogyakarta",I,32543356,Female,23081624776,"Adiwinoto,  Yogyakarta"
+145,Retno,"Hanacara, Jogja",I,32543357,Female,23207440506,"Hanacara, Jogja"
+146,Agustin,"Pringgama,  Yogyakarta",I,32543358,Female,23333256236,"Pringgama,  Yogyakarta"
+147,Cery,Bodronoyo Jogja,I,32543359,Female,23459071966,Bodronoyo Jogja
+148,Fifi,"Cungkuk, Jogja ",I,32543360,Female,23584887696,"Cungkuk, Jogja "
+149,Mm Nindita Lp,"Pagerwojo, Jogja ",J,32543361,Female,23710703426,"Pagerwojo, Jogja "
+150,Sri Handayani,"Joyo Pangrawit , Wonogiri",J,32543362,Female,23836519156,"Joyo Pangrawit , Wonogiri"
+151,Dewi Anita R,"Loh Jinawi, Jogja ",J,32543363,Female,23836519156,"Loh Jinawi, Jogja "
+152,RENI SUSANTI,Jemparingan Ngawi,J,32543364,Female,23836519156,Jemparingan Ngawi
+153,Wahyu Setiyaningsih,"Gendewo Mas, Banyumas",J,32543365,Female,23836519156,"Gendewo Mas, Banyumas"
+154,Indah Wahju,"Sambisena, Yogyakarta",J,32543366,Female,23836519156,"Sambisena, Yogyakarta"
+155,Sugiyarti,"Sambernyowo, Wonogiri ",J,32543367,Female,23836519156,"Sambernyowo, Wonogiri "
+156,Ana Candramaya,"Jemparingan Prambanan,  Jogja",J,32543368,Female,23836519156,"Jemparingan Prambanan,  Jogja"
+157,Sri Mulyati,"Walet Basura Pajajaran, Jawa Barat",J,32543369,Female,23836519156,"Walet Basura Pajajaran, Jawa Barat"
+158,Indah Rumawardhani,"Rospring, Sukoharjo",J,32543370,Female,23836519156,"Rospring, Sukoharjo"
+159,Prameswari Kusyudanti,Saranghaeyo Archery Yogyakarta,J,32543371,Female,23836519156,Saranghaeyo Archery Yogyakarta
+160,Nina,"Walet Basura Pajajaran, Jawa Barat",J,32543372,Female,23836519156,"Walet Basura Pajajaran, Jawa Barat"
+161,Nasyiatul 'Aisyiyah,Perpani Jogja,J,32543373,Female,23836519156,Perpani Jogja
+162,Sari Rahmawati,Perpatri Nusantara Jaya Kab. Kediri,J,32543374,Female,23836519156,Perpatri Nusantara Jaya Kab. Kediri
+163,Santi Apriliana,Putra Pringgondani,J,32543375,Female,23836519156,Putra Pringgondani
+164,Nenden Rohayati,"Cakra Wulung, Tasikmalaya",J,32543376,Female,23836519156,"Cakra Wulung, Tasikmalaya"
+165,Yasmin Alya Syifa,Wonopati,J,32543377,Female,23836519156,Wonopati
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

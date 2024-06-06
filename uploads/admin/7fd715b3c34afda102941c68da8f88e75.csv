@@ -1,0 +1,4 @@
+email,name,password,phone,target_names
+admin1@example.com,Admin One,hashedpassword,1234567890,Target 1
+admin2@example.com,Admin Two,hashedpassword,987654321,Target 2
+admin3@example.com,Admin Three,hashedpassword,1122334455,Target 3

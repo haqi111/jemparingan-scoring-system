@@ -1,0 +1,78 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Admin {
+  id        String         @id @default(uuid())
+  email     String         @unique
+  password  String
+  name      String
+  hashRt    String?
+  createdAt DateTime       @default(now())
+  updatedAt DateTime       @updatedAt
+  targets   AdminToTarget[]
+}
+
+model Target {
+  id           Int            @id @default(autoincrement())
+  name         String         @unique
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+  participants Participant[]
+  admins       AdminToTarget[]
+}
+
+model Round {
+  id           Int                  @id @default(autoincrement())
+  name         String
+  createdAt    DateTime             @default(now())
+  updatedAt    DateTime             @updatedAt
+  participants ParticipantToRound[]
+}
+
+model Participant {
+  participant_id     String               @id @default(uuid())
+  number_participant Int                  @unique
+  nik                String               @unique
+  club               String?
+  name               String
+  gender             String
+  phone              String
+  address            String
+  totalScore         Int                  @default(0)
+  createdAt          DateTime             @default(now())
+  updatedAt          DateTime             @updatedAt
+  targetName         String?              
+  target             Target?              @relation(fields: [targetName], references: [name])
+  rounds             ParticipantToRound[]
+}
+
+model AdminToTarget {
+  adminEmail  String
+  targetName  String
+  admin       Admin   @relation(fields: [adminEmail], references: [email])
+  target      Target  @relation(fields: [targetName], references: [name])
+
+  @@id([adminEmail, targetName])
+}
+
+model ParticipantToRound {
+  id            Int         @id @default(autoincrement())
+  roundId       Int
+  participantId String
+  score         Int[]       @default([])
+  bodyCount     Int         @default(0)
+  headCount     Int         @default(0)
+  doubleCount   Int         @default(0)
+  tripleCount   Int         @default(0)
+  quadraCount   Int         @default(0)
+  participant   Participant @relation(fields: [participantId], references: [participant_id])
+  round         Round       @relation(fields: [roundId], references: [id])
+
+  @@unique([participantId, roundId])
+}
