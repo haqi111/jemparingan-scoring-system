@@ -22,42 +22,101 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+BE-JemparinganPakualaman API is a robust and efficient solution designed to manage various aspects of traditional archery competitions (Jemparingan). This API facilitates seamless administration, participant management, scoring, and real-time live score updates.
+# Full Documentation In Here
+  - https://documenter.getpostman.com/view/26309282/2sA3XJjjgK
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+# Table of Contents
+
+- [Prerequisites](#prerequisites)
+    
+- [Installation](#installation)
+    
+- [Configuration](#configuration)
+    
+- [Running the Application](#running-the-application)
+    
+
+## Prerequisites
+
+Before running the Jemparingan-Scoring-System backend application, make sure you have the following installed:
+
+- **Nest.Js**
+    
+- **Prisma ORM**
+    
+- **Node.Js**
+    
 
 ## Installation
 
-```bash
-$ npm install
-```
+1. Clone the repository from GitHub:
+    
+    ``` shell
+         git clone https://github.com/haqi111/jemparingan-scoring-system.git
+    
+     ```
+    
+2. Change into the project directory:
+    
+    ``` shell
+         cd jemparingan-scoring-system
+    
+     ```
+    
+3. Install the required dependencies using npm:
+    
+    ``` shell
+         npm install
+    
+     ```
+    
 
-## Running the app
+## Configuration
 
-```bash
-# development
-$ npm run start
+Before running the application, you need to configure the following settings in the `.env`, file:
 
-# watch mode
-$ npm run start:dev
+- PostgresSQL database configuration:
+    
+    - `.env['DATABASE_URL']`: The PostgresSQL server host.
+        
+    - `.env['POSTGRES_USER']`: The PostgresSQL username.
+        
+    - `.env['POSTGRES_PASSWORD']`: The PostgresSQL password.
+        
+    - `.env['POSTGRES_DB']`: The name of the PostgresSQL database.
+        
+    - `.env['DB_HOST']`: The name of the database host.
+        
+    - `.env['DB_PORT']`: The name of the database port.
+        
+- Server Configuration
+    
+    - `.env['PORT']`: The Server port.
+        
+- JWT secret key:
+    
+    - `.env['AT_SECRET']`: A secret key used for generate access JWT token. , You can generate a random key or provide your own.
+        
+    - `.env['RT_SECRET']`: A secret key used for generate refresh JWT token. , You can generate a random key or provide your own.
+        
+- Superadmin Configuration
+    
+    - `.env['SUPERADMIN_EMAILS']`: The email can provide by your own
+        
 
-# production mode
-$ npm run start:prod
-```
+## Running the Application
 
-## Test
+To run the this jemparingan scoring system application, execute the following command:
 
-```bash
-# unit tests
-$ npm run test
+``` shell
+npm run start
 
-# e2e tests
-$ npm run test:e2e
+ ```
 
-# test coverage
-$ npm run test:cov
-```
+Make sure you have the required dependencies installed and the necessary configurations set before running the application.
 
+That's it! You have successfully set up and documented the Jemparingan Scoring System backend application.
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
